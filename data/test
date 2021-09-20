@@ -1,0 +1,3678 @@
+"author",
+   "contributors",
+   "coordinates",
+   "created_at",
+   "destroy",
+   "entities",
+   "extended_entities",
+   "favorite",
+   "favorite_count",
+   "favorited",
+   "geo",
+   "id",
+   "id_str",
+   "in_reply_to_screen_name",
+   "in_reply_to_status_id",
+   "in_reply_to_status_id_str",
+   "in_reply_to_user_id",
+   "in_reply_to_user_id_str",
+   "is_quote_status",
+   "lang",
+   "parse",
+   "parse_list",
+   "place",
+   "possibly_sensitive",
+   "retweet",
+   "retweet_count",
+   "retweeted",
+   "retweets",
+   "source",
+   "source_url",
+   "text",
+   "truncated",
+   "user"
+
+
+
+NAME::
+JoeBiden
+:::: Inside the preprocessor
+:::: DICTIONARY !!!
+{'poi_name': 'JoeBiden', 'poi_id': 939091, 'verified': True, 'country': '<Country to be added>', 'id': '1437153113035747338', 'replied_to_tweet_id': None, 'replied_to_user_id': None, 'reply_text': '<REPLY TEXT to be added>', 'tweet_text': 'Vaccines are free, safe, and convenient.', 'tweet_lang': 'en', 'text_en': 'Vaccines are free, safe, and convenient.', 'hashtags': [], 'mentions': [], 'tweet_urls': [], 'tweet_emoticons': [], 'tweet_date': '', 'geolocation': None}
+:::: Inside the preprocessor
+:::: DICTIONARY !!!
+{'poi_name': 'JoeBiden', 'poi_id': 939091, 'verified': True, 'country': '<Country to be added>', 'id': '1437121485366308864', 'replied_to_tweet_id': None, 'replied_to_user_id': None, 'reply_text': '<REPLY TEXT to be added>', 'tweet_text': ': We honor all those lost on that dark day, years ago. And we honor those who risked and gave their lives in the minutes, hours', 'tweet_lang': 'en', 'text_en': ': We honor all those lost on that dark day, years ago. And we honor those who risked and gave their lives in the minutes, hours', 'hashtags': [], 'mentions': ['POTUS'], 'tweet_urls': [], 'tweet_emoticons': [], 'tweet_date': '', 'geolocation': None}
+:::: Inside the preprocessor
+:::: DICTIONARY !!!
+{'poi_name': 'JoeBiden', 'poi_id': 939091, 'verified': True, 'country': '<Country to be added>', 'id': '1436773965041750019', 'replied_to_tweet_id': None, 'replied_to_user_id': None, 'reply_text': '<REPLY TEXT to be added>', 'tweet_text': ': We honor those lives lost on Flight on that dark day in history years ago. No matter how much time has passed, these comme', 'tweet_lang': 'en', 'text_en': ': We honor those lives lost on Flight on that dark day in history years ago. No matter how much time has passed, these comme', 'hashtags': [], 'mentions': ['POTUS'], 'tweet_urls': [], 'tweet_emoticons': [], 'tweet_date': '', 'geolocation': None}
+:::: Inside the preprocessor
+:::: DICTIONARY !!!
+{'poi_name': 'JoeBiden', 'poi_id': 939091, 'verified': True, 'country': '<Country to be added>', 'id': '1436729790225162250', 'replied_to_tweet_id': None, 'replied_to_user_id': None, 'reply_text': '<REPLY TEXT to be added>', 'tweet_text': ': We never forget.We never forget the children who have grown up without parents. Parents who have suffered without children. Hu', 'tweet_lang': 'en', 'text_en': ': We never forget.We never forget the children who have grown up without parents. Parents who have suffered without children. Hu', 'hashtags': [], 'mentions': ['POTUS'], 'tweet_urls': [], 'tweet_emoticons': [], 'tweet_date': '', 'geolocation': None}
+:::: Inside the preprocessor
+:::: DICTIONARY !!!
+{'poi_name': 'JoeBiden', 'poi_id': 939091, 'verified': True, 'country': '<Country to be added>', 'id': '1436676656169635847', 'replied_to_tweet_id': None, 'replied_to_user_id': None, 'reply_text': '<REPLY TEXT to be added>', 'tweet_text': 'Twenty years ago, nearly lives were cut short by an unspeakable act of cowardice and hatred on /11. As a nat', 'tweet_lang': 'en', 'text_en': 'Twenty years ago, nearly lives were cut short by an unspeakable act of cowardice and hatred on /11. As a nat', 'hashtags': [], 'mentions': [], 'tweet_urls': ['https://t.co/gUOcmw3Whw'], 'tweet_emoticons': [], 'tweet_date': '', 'geolocation': None}
+:::: Inside the preprocessor
+:::: DICTIONARY !!!
+{'poi_name': 'JoeBiden', 'poi_id': 939091, 'verified': True, 'country': '<Country to be added>', 'id': '1436490934770929706', 'replied_to_tweet_id': None, 'replied_to_user_id': None, 'reply_text': '<REPLY TEXT to be added>', 'tweet_text': 'Our new COVID-19 plan will reduce the number of unvaccinated Americans, decrease hospitalizations and deaths, allow', 'tweet_lang': 'en', 'text_en': 'Our new COVID-19 plan will reduce the number of unvaccinated Americans, decrease hospitalizations and deaths, allow', 'hashtags': [], 'mentions': [], 'tweet_urls': ['https://t.co/h6TE7k6kuj'], 'tweet_emoticons': [], 'tweet_date': '', 'geolocation': None}
+:::: Inside the preprocessor
+:::: DICTIONARY !!!
+{'poi_name': 'JoeBiden', 'poi_id': 939091, 'verified': True, 'country': '<Country to be added>', 'id': '1436367668911788060', 'replied_to_tweet_id': None, 'replied_to_user_id': None, 'reply_text': '<REPLY TEXT to be added>', 'tweet_text': 'Our plan takes on the elected officials in states that are undermining the life-saving actions we need to take to d', 'tweet_lang': 'en', 'text_en': 'Our plan takes on the elected officials in states that are undermining the life-saving actions we need to take to d', 'hashtags': [], 'mentions': [], 'tweet_urls': ['https://t.co/KZMjK4OGCy'], 'tweet_emoticons': [], 'tweet_date': '', 'geolocation': None}
+:::: Inside the preprocessor
+:::: DICTIONARY !!!
+{'poi_name': 'JoeBiden', 'poi_id': 939091, 'verified': True, 'country': '<Country to be added>', 'id': '1436341714264985601', 'replied_to_tweet_id': None, 'replied_to_user_id': None, 'reply_text': '<REPLY TEXT to be added>', 'tweet_text': 'My first responsibility is to protect the American people and make sure we have vaccines for every American, includ', 'tweet_lang': 'en', 'text_en': 'My first responsibility is to protect the American people and make sure we have vaccines for every American, includ', 'hashtags': [], 'mentions': [], 'tweet_urls': ['https://t.co/ADLTuRDhOo'], 'tweet_emoticons': [], 'tweet_date': '', 'geolocation': None}
+:::: Inside the preprocessor
+:::: DICTIONARY !!!
+{'poi_name': 'JoeBiden', 'poi_id': 939091, 'verified': True, 'country': '<Country to be added>', 'id': '1436155670978568196', 'replied_to_tweet_id': None, 'replied_to_user_id': None, 'reply_text': '<REPLY TEXT to be added>', 'tweet_text': 'The Department of Labor is developing an emergency rule to require that all employers with or more employees en', 'tweet_lang': 'en', 'text_en': 'The Department of Labor is developing an emergency rule to require that all employers with or more employees en', 'hashtags': [], 'mentions': [], 'tweet_urls': ['https://t.co/f3qYvf1iga'], 'tweet_emoticons': [], 'tweet_date': '', 'geolocation': None}
+:::: Inside the preprocessor
+:::: DICTIONARY !!!
+{'poi_name': 'JoeBiden', 'poi_id': 939091, 'verified': True, 'country': '<Country to be added>', 'id': '1436093465499144193', 'replied_to_tweet_id': None, 'replied_to_user_id': None, 'reply_text': '<REPLY TEXT to be added>', 'tweet_text': ': Right now, local school officials are trying to keep children safe in a pandemic while their governor picks a fight with them an', 'tweet_lang': 'en', 'text_en': ': Right now, local school officials are trying to keep children safe in a pandemic while their governor picks a fight with them an', 'hashtags': [], 'mentions': ['POTUS'], 'tweet_urls': [], 'tweet_emoticons': [], 'tweet_date': '', 'geolocation': None}
+
+
+
+Status(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "created_at":"Tue Sep 14 22:26:39 +0000 2021",
+   "id":1437905661824733195,
+   "id_str":"1437905661824733195",
+   "full_text":"RT @Gracewa05094337: How about unvaccinated and infected illegals from across border you let come in sick without being tested put on plane…",
+   "truncated":false,
+   "display_text_range":[
+      0,
+      140
+   ],
+   "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+         {
+            "screen_name":"Gracewa05094337",
+            "name":"Grace ward",
+            "id":1248351695148650505,
+            "id_str":"1248351695148650505",
+            "indices":[
+               3,
+               19
+            ]
+         }
+      ],
+      "urls":[
+
+      ]
+   },
+   "metadata":{
+      "iso_language_code":"en",
+      "result_type":"recent"
+   },
+   "source":"<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id":"None",
+   "in_reply_to_status_id_str":"None",
+   "in_reply_to_user_id":"None",
+   "in_reply_to_user_id_str":"None",
+   "in_reply_to_screen_name":"None",
+   "user":{
+      "id":873296742875369472,
+      "id_str":"873296742875369472",
+      "name":"Wahhhh",
+      "screen_name":"Inyourhead24_7",
+      "location":"Everywhere ",
+      "description":"Go ahead, report me as a bot, if you're butt hurt, and afraid of different opinions.\n😭😭😭",
+      "url":"None",
+      "entities":{
+         "description":{
+            "urls":[
+
+            ]
+         }
+      },
+      "protected":false,
+      "followers_count":2409,
+      "friends_count":2475,
+      "listed_count":0,
+      "created_at":"Fri Jun 09 21:52:23 +0000 2017",
+      "favourites_count":38139,
+      "utc_offset":"None",
+      "time_zone":"None",
+      "geo_enabled":false,
+      "verified":false,
+      "statuses_count":39957,
+      "lang":"None",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"F5F8FA",
+      "profile_background_image_url":"None",
+      "profile_background_image_url_https":"None",
+      "profile_background_tile":false,
+      "profile_image_url":"http://pbs.twimg.com/profile_images/1366747241386553346/IlE8TpL6_normal.jpg",
+      "profile_image_url_https":"https://pbs.twimg.com/profile_images/1366747241386553346/IlE8TpL6_normal.jpg",
+      "profile_banner_url":"https://pbs.twimg.com/profile_banners/873296742875369472/1610924376",
+      "profile_link_color":"1DA1F2",
+      "profile_sidebar_border_color":"C0DEED",
+      "profile_sidebar_fill_color":"DDEEF6",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":true,
+      "default_profile_image":false,
+      "following":false,
+      "follow_request_sent":false,
+      "notifications":false,
+      "translator_type":"none",
+      "withheld_in_countries":[
+
+      ]
+   },
+   "geo":"None",
+   "coordinates":"None",
+   "place":"None",
+   "contributors":"None",
+   "retweeted_status":{
+      "created_at":"Sat Sep 11 11:54:00 +0000 2021",
+      "id":1436659285753163784,
+      "id_str":"1436659285753163784",
+      "full_text":"How about unvaccinated and infected illegals from across border you let come in sick without being tested put on planes then sent to contaminate red states all over America and now you did same with Afghan refugees , Covid deaths you caused your responsible #BloodOnBidensHands https://t.co/OpE8ATRhc5",
+      "truncated":false,
+      "display_text_range":[
+         0,
+         277
+      ],
+      "entities":{
+         "hashtags":[
+            {
+               "text":"BloodOnBidensHands",
+               "indices":[
+                  258,
+                  277
+               ]
+            }
+         ],
+         "symbols":[
+
+         ],
+         "user_mentions":[
+
+         ],
+         "urls":[
+            {
+               "url":"https://t.co/OpE8ATRhc5",
+               "expanded_url":"https://twitter.com/JoeBiden/status/1436490934770929706",
+               "display_url":"twitter.com/JoeBiden/statu…",
+               "indices":[
+                  278,
+                  301
+               ]
+            }
+         ]
+      },
+      "metadata":{
+         "iso_language_code":"en",
+         "result_type":"recent"
+      },
+      "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id":"None",
+      "in_reply_to_status_id_str":"None",
+      "in_reply_to_user_id":"None",
+      "in_reply_to_user_id_str":"None",
+      "in_reply_to_screen_name":"None",
+      "user":{
+         "id":1248351695148650505,
+         "id_str":"1248351695148650505",
+         "name":"Grace ward",
+         "screen_name":"Gracewa05094337",
+         "location":"",
+         "description":"God makes me special",
+         "url":"None",
+         "entities":{
+            "description":{
+               "urls":[
+
+               ]
+            }
+         },
+         "protected":false,
+         "followers_count":11,
+         "friends_count":104,
+         "listed_count":0,
+         "created_at":"Thu Apr 09 20:48:07 +0000 2020",
+         "favourites_count":513,
+         "utc_offset":"None",
+         "time_zone":"None",
+         "geo_enabled":false,
+         "verified":false,
+         "statuses_count":1770,
+         "lang":"None",
+         "contributors_enabled":false,
+         "is_translator":false,
+         "is_translation_enabled":false,
+         "profile_background_color":"F5F8FA",
+         "profile_background_image_url":"None",
+         "profile_background_image_url_https":"None",
+         "profile_background_tile":false,
+         "profile_image_url":"http://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+         "profile_image_url_https":"https://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+         "profile_link_color":"1DA1F2",
+         "profile_sidebar_border_color":"C0DEED",
+         "profile_sidebar_fill_color":"DDEEF6",
+         "profile_text_color":"333333",
+         "profile_use_background_image":true,
+         "has_extended_profile":true,
+         "default_profile":true,
+         "default_profile_image":false,
+         "following":false,
+         "follow_request_sent":false,
+         "notifications":false,
+         "translator_type":"none",
+         "withheld_in_countries":[
+
+         ]
+      },
+      "geo":"None",
+      "coordinates":"None",
+      "place":"None",
+      "contributors":"None",
+      "is_quote_status":true,
+      "quoted_status_id":1436490934770929706,
+      "quoted_status_id_str":"1436490934770929706",
+      "quoted_status":{
+         "created_at":"Sat Sep 11 00:45:02 +0000 2021",
+         "id":1436490934770929706,
+         "id_str":"1436490934770929706",
+         "full_text":"Our new COVID-19 plan will reduce the number of unvaccinated Americans, decrease hospitalizations and deaths, allow our children to go to schools safely, and keep our economy strong by keeping businesses open. \n\nWe will spare no effort in saving lives and beating this virus.",
+         "truncated":false,
+         "display_text_range":[
+            0,
+            275
+         ],
+         "entities":{
+            "hashtags":[
+
+            ],
+            "symbols":[
+
+            ],
+            "user_mentions":[
+
+            ],
+            "urls":[
+
+            ]
+         },
+         "metadata":{
+            "iso_language_code":"en",
+            "result_type":"recent"
+         },
+         "source":"<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+         "in_reply_to_status_id":"None",
+         "in_reply_to_status_id_str":"None",
+         "in_reply_to_user_id":"None",
+         "in_reply_to_user_id_str":"None",
+         "in_reply_to_screen_name":"None",
+         "user":{
+            "id":939091,
+            "id_str":"939091",
+            "name":"Joe Biden",
+            "screen_name":"JoeBiden",
+            "location":"Washington, DC",
+            "description":"Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+            "url":"https://t.co/UClrPuJpyZ",
+            "entities":{
+               "url":{
+                  "urls":[
+                     {
+                        "url":"https://t.co/UClrPuJpyZ",
+                        "expanded_url":"http://joebiden.com",
+                        "display_url":"joebiden.com",
+                        "indices":[
+                           0,
+                           23
+                        ]
+                     }
+                  ]
+               },
+               "description":{
+                  "urls":[
+
+                  ]
+               }
+            },
+            "protected":false,
+            "followers_count":31195670,
+            "friends_count":47,
+            "listed_count":37138,
+            "created_at":"Sun Mar 11 17:51:24 +0000 2007",
+            "favourites_count":20,
+            "utc_offset":"None",
+            "time_zone":"None",
+            "geo_enabled":false,
+            "verified":true,
+            "statuses_count":7535,
+            "lang":"None",
+            "contributors_enabled":false,
+            "is_translator":false,
+            "is_translation_enabled":false,
+            "profile_background_color":"565959",
+            "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile":true,
+            "profile_image_url":"http://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+            "profile_image_url_https":"https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+            "profile_banner_url":"https://pbs.twimg.com/profile_banners/939091/1626295479",
+            "profile_link_color":"233F94",
+            "profile_sidebar_border_color":"FFFFFF",
+            "profile_sidebar_fill_color":"EBEBFF",
+            "profile_text_color":"323232",
+            "profile_use_background_image":true,
+            "has_extended_profile":false,
+            "default_profile":false,
+            "default_profile_image":false,
+            "following":false,
+            "follow_request_sent":false,
+            "notifications":false,
+            "translator_type":"none",
+            "withheld_in_countries":[
+
+            ]
+         },
+         "geo":"None",
+         "coordinates":"None",
+         "place":"None",
+         "contributors":"None",
+         "is_quote_status":false,
+         "retweet_count":4853,
+         "favorite_count":39512,
+         "favorited":false,
+         "retweeted":false,
+         "lang":"en"
+      },
+      "retweet_count":1,
+      "favorite_count":1,
+      "favorited":false,
+      "retweeted":false,
+      "possibly_sensitive":true,
+      "lang":"en"
+   },
+   "is_quote_status":true,
+   "quoted_status_id":1436490934770929706,
+   "quoted_status_id_str":"1436490934770929706",
+   "retweet_count":1,
+   "favorite_count":0,
+   "favorited":false,
+   "retweeted":false,
+   "lang":"en"
+},
+created_at=datetime.datetime(2021,
+9,
+14,
+22,
+26,
+39),
+id=1437905661824733195,
+"id_str=""1437905661824733195",
+"full_text=""RT @Gracewa05094337: How about unvaccinated and infected illegals from across border you let come in sick without being tested put on plane…",
+"truncated=False",
+"display_text_range="[
+   0,
+   140
+],
+"entities="{
+   "hashtags":[
+
+   ],
+   "symbols":[
+
+   ],
+   "user_mentions":[
+      {
+         "screen_name":"Gracewa05094337",
+         "name":"Grace ward",
+         "id":1248351695148650505,
+         "id_str":"1248351695148650505",
+         "indices":[
+            3,
+            19
+         ]
+      }
+   ],
+   "urls":[
+
+   ]
+},
+"metadata="{
+   "iso_language_code":"en",
+   "result_type":"recent"
+},
+"source=""Twitter Web App",
+"source_url=""https://mobile.twitter.com",
+"in_reply_to_status_id=None",
+"in_reply_to_status_id_str=None",
+"in_reply_to_user_id=None",
+"in_reply_to_user_id_str=None",
+"in_reply_to_screen_name=None",
+author=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":873296742875369472,
+   "id_str":"873296742875369472",
+   "name":"Wahhhh",
+   "screen_name":"Inyourhead24_7",
+   "location":"Everywhere ",
+   "description":"Go ahead, report me as a bot, if you're butt hurt, and afraid of different opinions.\n😭😭😭",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":2409,
+   "friends_count":2475,
+   "listed_count":0,
+   "created_at":"Fri Jun 09 21:52:23 +0000 2017",
+   "favourites_count":38139,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":false,
+   "statuses_count":39957,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"F5F8FA",
+   "profile_background_image_url":"None",
+   "profile_background_image_url_https":"None",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1366747241386553346/IlE8TpL6_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1366747241386553346/IlE8TpL6_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/873296742875369472/1610924376",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":false,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=873296742875369472,
+"id_str=""873296742875369472",
+"name=""Wahhhh",
+"screen_name=""Inyourhead24_7",
+"location=""Everywhere ",
+"description=""Go ahead, report me as a bot, if you're butt hurt, and afraid of different opinions.\n😭😭😭",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=2409,
+friends_count=2475,
+listed_count=0,
+created_at=datetime.datetime(2017,
+6,
+9,
+21,
+52,
+23),
+favourites_count=38139,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=False",
+statuses_count=39957,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""F5F8FA",
+"profile_background_image_url=None",
+"profile_background_image_url_https=None",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1366747241386553346/IlE8TpL6_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1366747241386553346/IlE8TpL6_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/873296742875369472/1610924376",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=False",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+user=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":873296742875369472,
+   "id_str":"873296742875369472",
+   "name":"Wahhhh",
+   "screen_name":"Inyourhead24_7",
+   "location":"Everywhere ",
+   "description":"Go ahead, report me as a bot, if you're butt hurt, and afraid of different opinions.\n😭😭😭",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":2409,
+   "friends_count":2475,
+   "listed_count":0,
+   "created_at":"Fri Jun 09 21:52:23 +0000 2017",
+   "favourites_count":38139,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":false,
+   "statuses_count":39957,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"F5F8FA",
+   "profile_background_image_url":"None",
+   "profile_background_image_url_https":"None",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1366747241386553346/IlE8TpL6_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1366747241386553346/IlE8TpL6_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/873296742875369472/1610924376",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":false,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=873296742875369472,
+"id_str=""873296742875369472",
+"name=""Wahhhh",
+"screen_name=""Inyourhead24_7",
+"location=""Everywhere ",
+"description=""Go ahead, report me as a bot, if you're butt hurt, and afraid of different opinions.\n😭😭😭",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=2409,
+friends_count=2475,
+listed_count=0,
+created_at=datetime.datetime(2017,
+6,
+9,
+21,
+52,
+23),
+favourites_count=38139,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=False",
+statuses_count=39957,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""F5F8FA",
+"profile_background_image_url=None",
+"profile_background_image_url_https=None",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1366747241386553346/IlE8TpL6_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1366747241386553346/IlE8TpL6_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/873296742875369472/1610924376",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=False",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+"geo=None",
+"coordinates=None",
+"place=None",
+"contributors=None",
+retweeted_status=Status(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "created_at":"Sat Sep 11 11:54:00 +0000 2021",
+   "id":1436659285753163784,
+   "id_str":"1436659285753163784",
+   "full_text":"How about unvaccinated and infected illegals from across border you let come in sick without being tested put on planes then sent to contaminate red states all over America and now you did same with Afghan refugees , Covid deaths you caused your responsible #BloodOnBidensHands https://t.co/OpE8ATRhc5",
+   "truncated":false,
+   "display_text_range":[
+      0,
+      277
+   ],
+   "entities":{
+      "hashtags":[
+         {
+            "text":"BloodOnBidensHands",
+            "indices":[
+               258,
+               277
+            ]
+         }
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+
+      ],
+      "urls":[
+         {
+            "url":"https://t.co/OpE8ATRhc5",
+            "expanded_url":"https://twitter.com/JoeBiden/status/1436490934770929706",
+            "display_url":"twitter.com/JoeBiden/statu…",
+            "indices":[
+               278,
+               301
+            ]
+         }
+      ]
+   },
+   "metadata":{
+      "iso_language_code":"en",
+      "result_type":"recent"
+   },
+   "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id":"None",
+   "in_reply_to_status_id_str":"None",
+   "in_reply_to_user_id":"None",
+   "in_reply_to_user_id_str":"None",
+   "in_reply_to_screen_name":"None",
+   "user":{
+      "id":1248351695148650505,
+      "id_str":"1248351695148650505",
+      "name":"Grace ward",
+      "screen_name":"Gracewa05094337",
+      "location":"",
+      "description":"God makes me special",
+      "url":"None",
+      "entities":{
+         "description":{
+            "urls":[
+
+            ]
+         }
+      },
+      "protected":false,
+      "followers_count":11,
+      "friends_count":104,
+      "listed_count":0,
+      "created_at":"Thu Apr 09 20:48:07 +0000 2020",
+      "favourites_count":513,
+      "utc_offset":"None",
+      "time_zone":"None",
+      "geo_enabled":false,
+      "verified":false,
+      "statuses_count":1770,
+      "lang":"None",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"F5F8FA",
+      "profile_background_image_url":"None",
+      "profile_background_image_url_https":"None",
+      "profile_background_tile":false,
+      "profile_image_url":"http://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+      "profile_image_url_https":"https://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+      "profile_link_color":"1DA1F2",
+      "profile_sidebar_border_color":"C0DEED",
+      "profile_sidebar_fill_color":"DDEEF6",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":true,
+      "default_profile":true,
+      "default_profile_image":false,
+      "following":false,
+      "follow_request_sent":false,
+      "notifications":false,
+      "translator_type":"none",
+      "withheld_in_countries":[
+
+      ]
+   },
+   "geo":"None",
+   "coordinates":"None",
+   "place":"None",
+   "contributors":"None",
+   "is_quote_status":true,
+   "quoted_status_id":1436490934770929706,
+   "quoted_status_id_str":"1436490934770929706",
+   "quoted_status":{
+      "created_at":"Sat Sep 11 00:45:02 +0000 2021",
+      "id":1436490934770929706,
+      "id_str":"1436490934770929706",
+      "full_text":"Our new COVID-19 plan will reduce the number of unvaccinated Americans, decrease hospitalizations and deaths, allow our children to go to schools safely, and keep our economy strong by keeping businesses open. \n\nWe will spare no effort in saving lives and beating this virus.",
+      "truncated":false,
+      "display_text_range":[
+         0,
+         275
+      ],
+      "entities":{
+         "hashtags":[
+
+         ],
+         "symbols":[
+
+         ],
+         "user_mentions":[
+
+         ],
+         "urls":[
+
+         ]
+      },
+      "metadata":{
+         "iso_language_code":"en",
+         "result_type":"recent"
+      },
+      "source":"<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_status_id":"None",
+      "in_reply_to_status_id_str":"None",
+      "in_reply_to_user_id":"None",
+      "in_reply_to_user_id_str":"None",
+      "in_reply_to_screen_name":"None",
+      "user":{
+         "id":939091,
+         "id_str":"939091",
+         "name":"Joe Biden",
+         "screen_name":"JoeBiden",
+         "location":"Washington, DC",
+         "description":"Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+         "url":"https://t.co/UClrPuJpyZ",
+         "entities":{
+            "url":{
+               "urls":[
+                  {
+                     "url":"https://t.co/UClrPuJpyZ",
+                     "expanded_url":"http://joebiden.com",
+                     "display_url":"joebiden.com",
+                     "indices":[
+                        0,
+                        23
+                     ]
+                  }
+               ]
+            },
+            "description":{
+               "urls":[
+
+               ]
+            }
+         },
+         "protected":false,
+         "followers_count":31195670,
+         "friends_count":47,
+         "listed_count":37138,
+         "created_at":"Sun Mar 11 17:51:24 +0000 2007",
+         "favourites_count":20,
+         "utc_offset":"None",
+         "time_zone":"None",
+         "geo_enabled":false,
+         "verified":true,
+         "statuses_count":7535,
+         "lang":"None",
+         "contributors_enabled":false,
+         "is_translator":false,
+         "is_translation_enabled":false,
+         "profile_background_color":"565959",
+         "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile":true,
+         "profile_image_url":"http://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+         "profile_image_url_https":"https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+         "profile_banner_url":"https://pbs.twimg.com/profile_banners/939091/1626295479",
+         "profile_link_color":"233F94",
+         "profile_sidebar_border_color":"FFFFFF",
+         "profile_sidebar_fill_color":"EBEBFF",
+         "profile_text_color":"323232",
+         "profile_use_background_image":true,
+         "has_extended_profile":false,
+         "default_profile":false,
+         "default_profile_image":false,
+         "following":false,
+         "follow_request_sent":false,
+         "notifications":false,
+         "translator_type":"none",
+         "withheld_in_countries":[
+
+         ]
+      },
+      "geo":"None",
+      "coordinates":"None",
+      "place":"None",
+      "contributors":"None",
+      "is_quote_status":false,
+      "retweet_count":4853,
+      "favorite_count":39512,
+      "favorited":false,
+      "retweeted":false,
+      "lang":"en"
+   },
+   "retweet_count":1,
+   "favorite_count":1,
+   "favorited":false,
+   "retweeted":false,
+   "possibly_sensitive":true,
+   "lang":"en"
+},
+created_at=datetime.datetime(2021,
+9,
+11,
+11,
+54),
+id=1436659285753163784,
+"id_str=""1436659285753163784",
+"full_text=""How about unvaccinated and infected illegals from across border you let come in sick without being tested put on planes then sent to contaminate red states all over America and now you did same with Afghan refugees , Covid deaths you caused your responsible #BloodOnBidensHands https://t.co/OpE8ATRhc5",
+"truncated=False",
+"display_text_range="[
+   0,
+   277
+],
+"entities="{
+   "hashtags":[
+      {
+         "text":"BloodOnBidensHands",
+         "indices":[
+            258,
+            277
+         ]
+      }
+   ],
+   "symbols":[
+
+   ],
+   "user_mentions":[
+
+   ],
+   "urls":[
+      {
+         "url":"https://t.co/OpE8ATRhc5",
+         "expanded_url":"https://twitter.com/JoeBiden/status/1436490934770929706",
+         "display_url":"twitter.com/JoeBiden/statu…",
+         "indices":[
+            278,
+            301
+         ]
+      }
+   ]
+},
+"metadata="{
+   "iso_language_code":"en",
+   "result_type":"recent"
+},
+"source=""Twitter for iPhone",
+"source_url=""http://twitter.com/download/iphone",
+"in_reply_to_status_id=None",
+"in_reply_to_status_id_str=None",
+"in_reply_to_user_id=None",
+"in_reply_to_user_id_str=None",
+"in_reply_to_screen_name=None",
+author=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":1248351695148650505,
+   "id_str":"1248351695148650505",
+   "name":"Grace ward",
+   "screen_name":"Gracewa05094337",
+   "location":"",
+   "description":"God makes me special",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":11,
+   "friends_count":104,
+   "listed_count":0,
+   "created_at":"Thu Apr 09 20:48:07 +0000 2020",
+   "favourites_count":513,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":false,
+   "statuses_count":1770,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"F5F8FA",
+   "profile_background_image_url":"None",
+   "profile_background_image_url_https":"None",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":true,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=1248351695148650505,
+"id_str=""1248351695148650505",
+"name=""Grace ward",
+"screen_name=""Gracewa05094337",
+"location=""",
+"description=""God makes me special",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=11,
+friends_count=104,
+listed_count=0,
+created_at=datetime.datetime(2020,
+4,
+9,
+20,
+48,
+7),
+favourites_count=513,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=False",
+statuses_count=1770,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""F5F8FA",
+"profile_background_image_url=None",
+"profile_background_image_url_https=None",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=True",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+user=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":1248351695148650505,
+   "id_str":"1248351695148650505",
+   "name":"Grace ward",
+   "screen_name":"Gracewa05094337",
+   "location":"",
+   "description":"God makes me special",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":11,
+   "friends_count":104,
+   "listed_count":0,
+   "created_at":"Thu Apr 09 20:48:07 +0000 2020",
+   "favourites_count":513,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":false,
+   "statuses_count":1770,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"F5F8FA",
+   "profile_background_image_url":"None",
+   "profile_background_image_url_https":"None",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":true,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=1248351695148650505,
+"id_str=""1248351695148650505",
+"name=""Grace ward",
+"screen_name=""Gracewa05094337",
+"location=""",
+"description=""God makes me special",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=11,
+friends_count=104,
+listed_count=0,
+created_at=datetime.datetime(2020,
+4,
+9,
+20,
+48,
+7),
+favourites_count=513,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=False",
+statuses_count=1770,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""F5F8FA",
+"profile_background_image_url=None",
+"profile_background_image_url_https=None",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1248352137127628800/HTD1miwE_normal.jpg",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=True",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+"geo=None",
+"coordinates=None",
+"place=None",
+"contributors=None",
+"is_quote_status=True",
+quoted_status_id=1436490934770929706,
+"quoted_status_id_str=""1436490934770929706",
+quoted_status=Status(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "created_at":"Sat Sep 11 00:45:02 +0000 2021",
+   "id":1436490934770929706,
+   "id_str":"1436490934770929706",
+   "full_text":"Our new COVID-19 plan will reduce the number of unvaccinated Americans, decrease hospitalizations and deaths, allow our children to go to schools safely, and keep our economy strong by keeping businesses open. \n\nWe will spare no effort in saving lives and beating this virus.",
+   "truncated":false,
+   "display_text_range":[
+      0,
+      275
+   ],
+   "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+
+      ],
+      "urls":[
+
+      ]
+   },
+   "metadata":{
+      "iso_language_code":"en",
+      "result_type":"recent"
+   },
+   "source":"<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+   "in_reply_to_status_id":"None",
+   "in_reply_to_status_id_str":"None",
+   "in_reply_to_user_id":"None",
+   "in_reply_to_user_id_str":"None",
+   "in_reply_to_screen_name":"None",
+   "user":{
+      "id":939091,
+      "id_str":"939091",
+      "name":"Joe Biden",
+      "screen_name":"JoeBiden",
+      "location":"Washington, DC",
+      "description":"Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+      "url":"https://t.co/UClrPuJpyZ",
+      "entities":{
+         "url":{
+            "urls":[
+               {
+                  "url":"https://t.co/UClrPuJpyZ",
+                  "expanded_url":"http://joebiden.com",
+                  "display_url":"joebiden.com",
+                  "indices":[
+                     0,
+                     23
+                  ]
+               }
+            ]
+         },
+         "description":{
+            "urls":[
+
+            ]
+         }
+      },
+      "protected":false,
+      "followers_count":31195670,
+      "friends_count":47,
+      "listed_count":37138,
+      "created_at":"Sun Mar 11 17:51:24 +0000 2007",
+      "favourites_count":20,
+      "utc_offset":"None",
+      "time_zone":"None",
+      "geo_enabled":false,
+      "verified":true,
+      "statuses_count":7535,
+      "lang":"None",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"565959",
+      "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile":true,
+      "profile_image_url":"http://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+      "profile_image_url_https":"https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+      "profile_banner_url":"https://pbs.twimg.com/profile_banners/939091/1626295479",
+      "profile_link_color":"233F94",
+      "profile_sidebar_border_color":"FFFFFF",
+      "profile_sidebar_fill_color":"EBEBFF",
+      "profile_text_color":"323232",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":false,
+      "follow_request_sent":false,
+      "notifications":false,
+      "translator_type":"none",
+      "withheld_in_countries":[
+
+      ]
+   },
+   "geo":"None",
+   "coordinates":"None",
+   "place":"None",
+   "contributors":"None",
+   "is_quote_status":false,
+   "retweet_count":4853,
+   "favorite_count":39512,
+   "favorited":false,
+   "retweeted":false,
+   "lang":"en"
+},
+created_at=datetime.datetime(2021,
+9,
+11,
+0,
+45,
+2),
+id=1436490934770929706,
+"id_str=""1436490934770929706",
+"full_text=""Our new COVID-19 plan will reduce the number of unvaccinated Americans, decrease hospitalizations and deaths, allow our children to go to schools safely, and keep our economy strong by keeping businesses open. \n\nWe will spare no effort in saving lives and beating this virus.",
+"truncated=False",
+"display_text_range="[
+   0,
+   275
+],
+"entities="{
+   "hashtags":[
+
+   ],
+   "symbols":[
+
+   ],
+   "user_mentions":[
+
+   ],
+   "urls":[
+
+   ]
+},
+"metadata="{
+   "iso_language_code":"en",
+   "result_type":"recent"
+},
+"source=""Sprout Social",
+"source_url=""https://sproutsocial.com",
+"in_reply_to_status_id=None",
+"in_reply_to_status_id_str=None",
+"in_reply_to_user_id=None",
+"in_reply_to_user_id_str=None",
+"in_reply_to_screen_name=None",
+author=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":939091,
+   "id_str":"939091",
+   "name":"Joe Biden",
+   "screen_name":"JoeBiden",
+   "location":"Washington, DC",
+   "description":"Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+   "url":"https://t.co/UClrPuJpyZ",
+   "entities":{
+      "url":{
+         "urls":[
+            {
+               "url":"https://t.co/UClrPuJpyZ",
+               "expanded_url":"http://joebiden.com",
+               "display_url":"joebiden.com",
+               "indices":[
+                  0,
+                  23
+               ]
+            }
+         ]
+      },
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":31195670,
+   "friends_count":47,
+   "listed_count":37138,
+   "created_at":"Sun Mar 11 17:51:24 +0000 2007",
+   "favourites_count":20,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":true,
+   "statuses_count":7535,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"565959",
+   "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile":true,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/939091/1626295479",
+   "profile_link_color":"233F94",
+   "profile_sidebar_border_color":"FFFFFF",
+   "profile_sidebar_fill_color":"EBEBFF",
+   "profile_text_color":"323232",
+   "profile_use_background_image":true,
+   "has_extended_profile":false,
+   "default_profile":false,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=939091,
+"id_str=""939091",
+"name=""Joe Biden",
+"screen_name=""JoeBiden",
+"location=""Washington, DC",
+"description=""Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+"url=""https://t.co/UClrPuJpyZ",
+"entities="{
+   "url":{
+      "urls":[
+         {
+            "url":"https://t.co/UClrPuJpyZ",
+            "expanded_url":"http://joebiden.com",
+            "display_url":"joebiden.com",
+            "indices":[
+               0,
+               23
+            ]
+         }
+      ]
+   },
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=31195670,
+friends_count=47,
+listed_count=37138,
+created_at=datetime.datetime(2007,
+3,
+11,
+17,
+51,
+24),
+favourites_count=20,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=True",
+statuses_count=7535,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""565959",
+"profile_background_image_url=""http://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https=""https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile=True",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/939091/1626295479",
+"profile_link_color=""233F94",
+"profile_sidebar_border_color=""FFFFFF",
+"profile_sidebar_fill_color=""EBEBFF",
+"profile_text_color=""323232",
+"profile_use_background_image=True",
+"has_extended_profile=False",
+"default_profile=False",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+user=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":939091,
+   "id_str":"939091",
+   "name":"Joe Biden",
+   "screen_name":"JoeBiden",
+   "location":"Washington, DC",
+   "description":"Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+   "url":"https://t.co/UClrPuJpyZ",
+   "entities":{
+      "url":{
+         "urls":[
+            {
+               "url":"https://t.co/UClrPuJpyZ",
+               "expanded_url":"http://joebiden.com",
+               "display_url":"joebiden.com",
+               "indices":[
+                  0,
+                  23
+               ]
+            }
+         ]
+      },
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":31195670,
+   "friends_count":47,
+   "listed_count":37138,
+   "created_at":"Sun Mar 11 17:51:24 +0000 2007",
+   "favourites_count":20,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":true,
+   "statuses_count":7535,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"565959",
+   "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile":true,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/939091/1626295479",
+   "profile_link_color":"233F94",
+   "profile_sidebar_border_color":"FFFFFF",
+   "profile_sidebar_fill_color":"EBEBFF",
+   "profile_text_color":"323232",
+   "profile_use_background_image":true,
+   "has_extended_profile":false,
+   "default_profile":false,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=939091,
+"id_str=""939091",
+"name=""Joe Biden",
+"screen_name=""JoeBiden",
+"location=""Washington, DC",
+"description=""Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+"url=""https://t.co/UClrPuJpyZ",
+"entities="{
+   "url":{
+      "urls":[
+         {
+            "url":"https://t.co/UClrPuJpyZ",
+            "expanded_url":"http://joebiden.com",
+            "display_url":"joebiden.com",
+            "indices":[
+               0,
+               23
+            ]
+         }
+      ]
+   },
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=31195670,
+friends_count=47,
+listed_count=37138,
+created_at=datetime.datetime(2007,
+3,
+11,
+17,
+51,
+24),
+favourites_count=20,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=True",
+statuses_count=7535,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""565959",
+"profile_background_image_url=""http://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https=""https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile=True",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/939091/1626295479",
+"profile_link_color=""233F94",
+"profile_sidebar_border_color=""FFFFFF",
+"profile_sidebar_fill_color=""EBEBFF",
+"profile_text_color=""323232",
+"profile_use_background_image=True",
+"has_extended_profile=False",
+"default_profile=False",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+"geo=None",
+"coordinates=None",
+"place=None",
+"contributors=None",
+"is_quote_status=False",
+retweet_count=4853,
+favorite_count=39512,
+"favorited=False",
+"retweeted=False",
+"lang=""en"")",
+retweet_count=1,
+favorite_count=1,
+"favorited=False",
+"retweeted=False",
+"possibly_sensitive=True",
+"lang=""en"")",
+"is_quote_status=True",
+quoted_status_id=1436490934770929706,
+"quoted_status_id_str=""1436490934770929706",
+retweet_count=1,
+favorite_count=0,
+"favorited=False",
+"retweeted=False",
+"lang=""en")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Status(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "created_at":"Mon Sep 13 04:12:51 +0000 2021",
+   "id":1437268011719790593,
+   "id_str":"1437268011719790593",
+   "full_text":"RT @KTRTRS: Many thanks Rajiv Ji to you &amp; Niti Ayog endorsing the growth of Telangana 🙏",
+   "truncated":false,
+   "display_text_range":[
+      0,
+      91
+   ],
+   "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+         {
+            "screen_name":"KTRTRS",
+            "name":"KTR",
+            "id":118787224,
+            "id_str":"118787224",
+            "indices":[
+               3,
+               10
+            ]
+         }
+      ],
+      "urls":[
+
+      ]
+   },
+   "metadata":{
+      "iso_language_code":"en",
+      "result_type":"recent"
+   },
+   "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id":"None",
+   "in_reply_to_status_id_str":"None",
+   "in_reply_to_user_id":"None",
+   "in_reply_to_user_id_str":"None",
+   "in_reply_to_screen_name":"None",
+   "user":{
+      "id":149307505,
+      "id_str":"149307505",
+      "name":"Pramod Kumar Buravalli",
+      "screen_name":"pburavalli",
+      "location":"USA/India",
+      "description":"Founder/CEO @Myindmakers @vob_USA",
+      "url":"https://t.co/fZ9m9BSjIf",
+      "entities":{
+         "url":{
+            "urls":[
+               {
+                  "url":"https://t.co/fZ9m9BSjIf",
+                  "expanded_url":"http://www.myind.net",
+                  "display_url":"myind.net",
+                  "indices":[
+                     0,
+                     23
+                  ]
+               }
+            ]
+         },
+         "description":{
+            "urls":[
+
+            ]
+         }
+      },
+      "protected":false,
+      "followers_count":3457,
+      "friends_count":812,
+      "listed_count":62,
+      "created_at":"Fri May 28 23:45:19 +0000 2010",
+      "favourites_count":35895,
+      "utc_offset":"None",
+      "time_zone":"None",
+      "geo_enabled":false,
+      "verified":false,
+      "statuses_count":41850,
+      "lang":"None",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"000000",
+      "profile_background_image_url":"http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile":false,
+      "profile_image_url":"http://pbs.twimg.com/profile_images/1395612320601198596/qyXuW-Bg_normal.jpg",
+      "profile_image_url_https":"https://pbs.twimg.com/profile_images/1395612320601198596/qyXuW-Bg_normal.jpg",
+      "profile_banner_url":"https://pbs.twimg.com/profile_banners/149307505/1624466325",
+      "profile_link_color":"FAB81E",
+      "profile_sidebar_border_color":"000000",
+      "profile_sidebar_fill_color":"000000",
+      "profile_text_color":"000000",
+      "profile_use_background_image":false,
+      "has_extended_profile":true,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":false,
+      "follow_request_sent":false,
+      "notifications":false,
+      "translator_type":"none",
+      "withheld_in_countries":[
+
+      ]
+   },
+   "geo":"None",
+   "coordinates":"None",
+   "place":"None",
+   "contributors":"None",
+   "retweeted_status":{
+      "created_at":"Sun Sep 12 06:17:57 +0000 2021",
+      "id":1436937106375413767,
+      "id_str":"1436937106375413767",
+      "full_text":"Many thanks Rajiv Ji to you &amp; Niti Ayog endorsing the growth of Telangana 🙏 https://t.co/ZA6FmUz8yX",
+      "truncated":false,
+      "display_text_range":[
+         0,
+         79
+      ],
+      "entities":{
+         "hashtags":[
+
+         ],
+         "symbols":[
+
+         ],
+         "user_mentions":[
+
+         ],
+         "urls":[
+            {
+               "url":"https://t.co/ZA6FmUz8yX",
+               "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964",
+               "display_url":"twitter.com/RajivKumar1/st…",
+               "indices":[
+                  80,
+                  103
+               ]
+            }
+         ]
+      },
+      "metadata":{
+         "iso_language_code":"en",
+         "result_type":"recent"
+      },
+      "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id":"None",
+      "in_reply_to_status_id_str":"None",
+      "in_reply_to_user_id":"None",
+      "in_reply_to_user_id_str":"None",
+      "in_reply_to_screen_name":"None",
+      "user":{
+         "id":118787224,
+         "id_str":"118787224",
+         "name":"KTR",
+         "screen_name":"KTRTRS",
+         "location":"Hyderabad, Telangana",
+         "description":"Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+         "url":"None",
+         "entities":{
+            "description":{
+               "urls":[
+
+               ]
+            }
+         },
+         "protected":false,
+         "followers_count":3016423,
+         "friends_count":127,
+         "listed_count":754,
+         "created_at":"Mon Mar 01 19:07:28 +0000 2010",
+         "favourites_count":11793,
+         "utc_offset":"None",
+         "time_zone":"None",
+         "geo_enabled":false,
+         "verified":true,
+         "statuses_count":15095,
+         "lang":"None",
+         "contributors_enabled":false,
+         "is_translator":false,
+         "is_translation_enabled":false,
+         "profile_background_color":"C0DEED",
+         "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile":false,
+         "profile_image_url":"http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+         "profile_image_url_https":"https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+         "profile_banner_url":"https://pbs.twimg.com/profile_banners/118787224/1624581184",
+         "profile_link_color":"1DA1F2",
+         "profile_sidebar_border_color":"C0DEED",
+         "profile_sidebar_fill_color":"DDEEF6",
+         "profile_text_color":"333333",
+         "profile_use_background_image":true,
+         "has_extended_profile":true,
+         "default_profile":true,
+         "default_profile_image":false,
+         "following":false,
+         "follow_request_sent":false,
+         "notifications":false,
+         "translator_type":"none",
+         "withheld_in_countries":[
+
+         ]
+      },
+      "geo":"None",
+      "coordinates":"None",
+      "place":"None",
+      "contributors":"None",
+      "is_quote_status":true,
+      "quoted_status_id":1436933410967080964,
+      "quoted_status_id_str":"1436933410967080964",
+      "quoted_status":{
+         "created_at":"Sun Sep 12 06:03:16 +0000 2021",
+         "id":1436933410967080964,
+         "id_str":"1436933410967080964",
+         "full_text":"With a robust industrial &amp; policy landscape, #Telangana, India's youngest state, is one of the fastest growing states in the country, growing at an avg. annual rate of more than 9% since its formation.  #ArthNITI special #StatesOfTheNation feature here:   https://t.co/hZWVI8dOmy https://t.co/buUOumpbOw",
+         "truncated":false,
+         "display_text_range":[
+            0,
+            283
+         ],
+         "entities":{
+            "hashtags":[
+               {
+                  "text":"Telangana",
+                  "indices":[
+                     49,
+                     59
+                  ]
+               },
+               {
+                  "text":"ArthNITI",
+                  "indices":[
+                     207,
+                     216
+                  ]
+               },
+               {
+                  "text":"StatesOfTheNation",
+                  "indices":[
+                     225,
+                     243
+                  ]
+               }
+            ],
+            "symbols":[
+
+            ],
+            "user_mentions":[
+
+            ],
+            "urls":[
+               {
+                  "url":"https://t.co/hZWVI8dOmy",
+                  "expanded_url":"https://www.niti.gov.in/sites/default/files/2021-08/Arthniti-August_28-08-2021.pdf",
+                  "display_url":"niti.gov.in/sites/default/…",
+                  "indices":[
+                     260,
+                     283
+                  ]
+               }
+            ],
+            "media":[
+               {
+                  "id":1436933403316686854,
+                  "id_str":"1436933403316686854",
+                  "indices":[
+                     284,
+                     307
+                  ],
+                  "media_url":"http://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+                  "media_url_https":"https://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+                  "url":"https://t.co/buUOumpbOw",
+                  "display_url":"pic.twitter.com/buUOumpbOw",
+                  "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964/photo/1",
+                  "type":"photo",
+                  "sizes":{
+                     "thumb":{
+                        "w":150,
+                        "h":150,
+                        "resize":"crop"
+                     },
+                     "large":{
+                        "w":678,
+                        "h":452,
+                        "resize":"fit"
+                     },
+                     "medium":{
+                        "w":678,
+                        "h":452,
+                        "resize":"fit"
+                     },
+                     "small":{
+                        "w":678,
+                        "h":452,
+                        "resize":"fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities":{
+            "media":[
+               {
+                  "id":1436933403316686854,
+                  "id_str":"1436933403316686854",
+                  "indices":[
+                     284,
+                     307
+                  ],
+                  "media_url":"http://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+                  "media_url_https":"https://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+                  "url":"https://t.co/buUOumpbOw",
+                  "display_url":"pic.twitter.com/buUOumpbOw",
+                  "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964/photo/1",
+                  "type":"photo",
+                  "sizes":{
+                     "thumb":{
+                        "w":150,
+                        "h":150,
+                        "resize":"crop"
+                     },
+                     "large":{
+                        "w":678,
+                        "h":452,
+                        "resize":"fit"
+                     },
+                     "medium":{
+                        "w":678,
+                        "h":452,
+                        "resize":"fit"
+                     },
+                     "small":{
+                        "w":678,
+                        "h":452,
+                        "resize":"fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "metadata":{
+            "iso_language_code":"en",
+            "result_type":"recent"
+         },
+         "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "in_reply_to_status_id":"None",
+         "in_reply_to_status_id_str":"None",
+         "in_reply_to_user_id":"None",
+         "in_reply_to_user_id_str":"None",
+         "in_reply_to_screen_name":"None",
+         "user":{
+            "id":609884455,
+            "id_str":"609884455",
+            "name":"Rajiv Kumar",
+            "screen_name":"RajivKumar1",
+            "location":"Delhi India",
+            "description":"Vice Chairman @NITIAayog | Economist, Author who loves Sufi music & Sahaja yoga meditation | Views are personal",
+            "url":"https://t.co/U55Sj15mVK",
+            "entities":{
+               "url":{
+                  "urls":[
+                     {
+                        "url":"https://t.co/U55Sj15mVK",
+                        "expanded_url":"http://www.niti.gov.in/",
+                        "display_url":"niti.gov.in",
+                        "indices":[
+                           0,
+                           23
+                        ]
+                     }
+                  ]
+               },
+               "description":{
+                  "urls":[
+
+                  ]
+               }
+            },
+            "protected":false,
+            "followers_count":79796,
+            "friends_count":519,
+            "listed_count":201,
+            "created_at":"Sat Jun 16 10:29:20 +0000 2012",
+            "favourites_count":2150,
+            "utc_offset":"None",
+            "time_zone":"None",
+            "geo_enabled":true,
+            "verified":true,
+            "statuses_count":8571,
+            "lang":"None",
+            "contributors_enabled":false,
+            "is_translator":false,
+            "is_translation_enabled":false,
+            "profile_background_color":"C0DEED",
+            "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile":false,
+            "profile_image_url":"http://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+            "profile_image_url_https":"https://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+            "profile_banner_url":"https://pbs.twimg.com/profile_banners/609884455/1605676715",
+            "profile_link_color":"1DA1F2",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_text_color":"333333",
+            "profile_use_background_image":true,
+            "has_extended_profile":false,
+            "default_profile":true,
+            "default_profile_image":false,
+            "following":false,
+            "follow_request_sent":false,
+            "notifications":false,
+            "translator_type":"none",
+            "withheld_in_countries":[
+
+            ]
+         },
+         "geo":"None",
+         "coordinates":"None",
+         "place":"None",
+         "contributors":"None",
+         "is_quote_status":false,
+         "retweet_count":184,
+         "favorite_count":1279,
+         "favorited":false,
+         "retweeted":false,
+         "possibly_sensitive":false,
+         "lang":"en"
+      },
+      "retweet_count":143,
+      "favorite_count":1278,
+      "favorited":false,
+      "retweeted":false,
+      "possibly_sensitive":false,
+      "lang":"en"
+   },
+   "is_quote_status":true,
+   "quoted_status_id":1436933410967080964,
+   "quoted_status_id_str":"1436933410967080964",
+   "retweet_count":143,
+   "favorite_count":0,
+   "favorited":false,
+   "retweeted":false,
+   "lang":"en"
+},
+created_at=datetime.datetime(2021,
+9,
+13,
+4,
+12,
+51),
+id=1437268011719790593,
+"id_str=""1437268011719790593",
+"full_text=""RT @KTRTRS: Many thanks Rajiv Ji to you &amp; Niti Ayog endorsing the growth of Telangana 🙏",
+"truncated=False",
+"display_text_range="[
+   0,
+   91
+],
+"entities="{
+   "hashtags":[
+
+   ],
+   "symbols":[
+
+   ],
+   "user_mentions":[
+      {
+         "screen_name":"KTRTRS",
+         "name":"KTR",
+         "id":118787224,
+         "id_str":"118787224",
+         "indices":[
+            3,
+            10
+         ]
+      }
+   ],
+   "urls":[
+
+   ]
+},
+"metadata="{
+   "iso_language_code":"en",
+   "result_type":"recent"
+},
+"source=""Twitter for iPhone",
+"source_url=""http://twitter.com/download/iphone",
+"in_reply_to_status_id=None",
+"in_reply_to_status_id_str=None",
+"in_reply_to_user_id=None",
+"in_reply_to_user_id_str=None",
+"in_reply_to_screen_name=None",
+author=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":149307505,
+   "id_str":"149307505",
+   "name":"Pramod Kumar Buravalli",
+   "screen_name":"pburavalli",
+   "location":"USA/India",
+   "description":"Founder/CEO @Myindmakers @vob_USA",
+   "url":"https://t.co/fZ9m9BSjIf",
+   "entities":{
+      "url":{
+         "urls":[
+            {
+               "url":"https://t.co/fZ9m9BSjIf",
+               "expanded_url":"http://www.myind.net",
+               "display_url":"myind.net",
+               "indices":[
+                  0,
+                  23
+               ]
+            }
+         ]
+      },
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":3457,
+   "friends_count":812,
+   "listed_count":62,
+   "created_at":"Fri May 28 23:45:19 +0000 2010",
+   "favourites_count":35895,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":false,
+   "statuses_count":41850,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"000000",
+   "profile_background_image_url":"http://abs.twimg.com/images/themes/theme19/bg.gif",
+   "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme19/bg.gif",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1395612320601198596/qyXuW-Bg_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1395612320601198596/qyXuW-Bg_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/149307505/1624466325",
+   "profile_link_color":"FAB81E",
+   "profile_sidebar_border_color":"000000",
+   "profile_sidebar_fill_color":"000000",
+   "profile_text_color":"000000",
+   "profile_use_background_image":false,
+   "has_extended_profile":true,
+   "default_profile":false,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=149307505,
+"id_str=""149307505",
+"name=""Pramod Kumar Buravalli",
+"screen_name=""pburavalli",
+"location=""USA/India",
+"description=""Founder/CEO @Myindmakers @vob_USA",
+"url=""https://t.co/fZ9m9BSjIf",
+"entities="{
+   "url":{
+      "urls":[
+         {
+            "url":"https://t.co/fZ9m9BSjIf",
+            "expanded_url":"http://www.myind.net",
+            "display_url":"myind.net",
+            "indices":[
+               0,
+               23
+            ]
+         }
+      ]
+   },
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=3457,
+friends_count=812,
+listed_count=62,
+created_at=datetime.datetime(2010,
+5,
+28,
+23,
+45,
+19),
+favourites_count=35895,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=False",
+statuses_count=41850,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""000000",
+"profile_background_image_url=""http://abs.twimg.com/images/themes/theme19/bg.gif",
+"profile_background_image_url_https=""https://abs.twimg.com/images/themes/theme19/bg.gif",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1395612320601198596/qyXuW-Bg_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1395612320601198596/qyXuW-Bg_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/149307505/1624466325",
+"profile_link_color=""FAB81E",
+"profile_sidebar_border_color=""000000",
+"profile_sidebar_fill_color=""000000",
+"profile_text_color=""000000",
+"profile_use_background_image=False",
+"has_extended_profile=True",
+"default_profile=False",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+user=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":149307505,
+   "id_str":"149307505",
+   "name":"Pramod Kumar Buravalli",
+   "screen_name":"pburavalli",
+   "location":"USA/India",
+   "description":"Founder/CEO @Myindmakers @vob_USA",
+   "url":"https://t.co/fZ9m9BSjIf",
+   "entities":{
+      "url":{
+         "urls":[
+            {
+               "url":"https://t.co/fZ9m9BSjIf",
+               "expanded_url":"http://www.myind.net",
+               "display_url":"myind.net",
+               "indices":[
+                  0,
+                  23
+               ]
+            }
+         ]
+      },
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":3457,
+   "friends_count":812,
+   "listed_count":62,
+   "created_at":"Fri May 28 23:45:19 +0000 2010",
+   "favourites_count":35895,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":false,
+   "statuses_count":41850,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"000000",
+   "profile_background_image_url":"http://abs.twimg.com/images/themes/theme19/bg.gif",
+   "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme19/bg.gif",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1395612320601198596/qyXuW-Bg_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1395612320601198596/qyXuW-Bg_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/149307505/1624466325",
+   "profile_link_color":"FAB81E",
+   "profile_sidebar_border_color":"000000",
+   "profile_sidebar_fill_color":"000000",
+   "profile_text_color":"000000",
+   "profile_use_background_image":false,
+   "has_extended_profile":true,
+   "default_profile":false,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=149307505,
+"id_str=""149307505",
+"name=""Pramod Kumar Buravalli",
+"screen_name=""pburavalli",
+"location=""USA/India",
+"description=""Founder/CEO @Myindmakers @vob_USA",
+"url=""https://t.co/fZ9m9BSjIf",
+"entities="{
+   "url":{
+      "urls":[
+         {
+            "url":"https://t.co/fZ9m9BSjIf",
+            "expanded_url":"http://www.myind.net",
+            "display_url":"myind.net",
+            "indices":[
+               0,
+               23
+            ]
+         }
+      ]
+   },
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=3457,
+friends_count=812,
+listed_count=62,
+created_at=datetime.datetime(2010,
+5,
+28,
+23,
+45,
+19),
+favourites_count=35895,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=False",
+statuses_count=41850,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""000000",
+"profile_background_image_url=""http://abs.twimg.com/images/themes/theme19/bg.gif",
+"profile_background_image_url_https=""https://abs.twimg.com/images/themes/theme19/bg.gif",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1395612320601198596/qyXuW-Bg_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1395612320601198596/qyXuW-Bg_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/149307505/1624466325",
+"profile_link_color=""FAB81E",
+"profile_sidebar_border_color=""000000",
+"profile_sidebar_fill_color=""000000",
+"profile_text_color=""000000",
+"profile_use_background_image=False",
+"has_extended_profile=True",
+"default_profile=False",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+"geo=None",
+"coordinates=None",
+"place=None",
+"contributors=None",
+retweeted_status=Status(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "created_at":"Sun Sep 12 06:17:57 +0000 2021",
+   "id":1436937106375413767,
+   "id_str":"1436937106375413767",
+   "full_text":"Many thanks Rajiv Ji to you &amp; Niti Ayog endorsing the growth of Telangana 🙏 https://t.co/ZA6FmUz8yX",
+   "truncated":false,
+   "display_text_range":[
+      0,
+      79
+   ],
+   "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+
+      ],
+      "urls":[
+         {
+            "url":"https://t.co/ZA6FmUz8yX",
+            "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964",
+            "display_url":"twitter.com/RajivKumar1/st…",
+            "indices":[
+               80,
+               103
+            ]
+         }
+      ]
+   },
+   "metadata":{
+      "iso_language_code":"en",
+      "result_type":"recent"
+   },
+   "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id":"None",
+   "in_reply_to_status_id_str":"None",
+   "in_reply_to_user_id":"None",
+   "in_reply_to_user_id_str":"None",
+   "in_reply_to_screen_name":"None",
+   "user":{
+      "id":118787224,
+      "id_str":"118787224",
+      "name":"KTR",
+      "screen_name":"KTRTRS",
+      "location":"Hyderabad, Telangana",
+      "description":"Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+      "url":"None",
+      "entities":{
+         "description":{
+            "urls":[
+
+            ]
+         }
+      },
+      "protected":false,
+      "followers_count":3016423,
+      "friends_count":127,
+      "listed_count":754,
+      "created_at":"Mon Mar 01 19:07:28 +0000 2010",
+      "favourites_count":11793,
+      "utc_offset":"None",
+      "time_zone":"None",
+      "geo_enabled":false,
+      "verified":true,
+      "statuses_count":15095,
+      "lang":"None",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"C0DEED",
+      "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile":false,
+      "profile_image_url":"http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+      "profile_image_url_https":"https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+      "profile_banner_url":"https://pbs.twimg.com/profile_banners/118787224/1624581184",
+      "profile_link_color":"1DA1F2",
+      "profile_sidebar_border_color":"C0DEED",
+      "profile_sidebar_fill_color":"DDEEF6",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":true,
+      "default_profile":true,
+      "default_profile_image":false,
+      "following":false,
+      "follow_request_sent":false,
+      "notifications":false,
+      "translator_type":"none",
+      "withheld_in_countries":[
+
+      ]
+   },
+   "geo":"None",
+   "coordinates":"None",
+   "place":"None",
+   "contributors":"None",
+   "is_quote_status":true,
+   "quoted_status_id":1436933410967080964,
+   "quoted_status_id_str":"1436933410967080964",
+   "quoted_status":{
+      "created_at":"Sun Sep 12 06:03:16 +0000 2021",
+      "id":1436933410967080964,
+      "id_str":"1436933410967080964",
+      "full_text":"With a robust industrial &amp; policy landscape, #Telangana, India's youngest state, is one of the fastest growing states in the country, growing at an avg. annual rate of more than 9% since its formation.  #ArthNITI special #StatesOfTheNation feature here:   https://t.co/hZWVI8dOmy https://t.co/buUOumpbOw",
+      "truncated":false,
+      "display_text_range":[
+         0,
+         283
+      ],
+      "entities":{
+         "hashtags":[
+            {
+               "text":"Telangana",
+               "indices":[
+                  49,
+                  59
+               ]
+            },
+            {
+               "text":"ArthNITI",
+               "indices":[
+                  207,
+                  216
+               ]
+            },
+            {
+               "text":"StatesOfTheNation",
+               "indices":[
+                  225,
+                  243
+               ]
+            }
+         ],
+         "symbols":[
+
+         ],
+         "user_mentions":[
+
+         ],
+         "urls":[
+            {
+               "url":"https://t.co/hZWVI8dOmy",
+               "expanded_url":"https://www.niti.gov.in/sites/default/files/2021-08/Arthniti-August_28-08-2021.pdf",
+               "display_url":"niti.gov.in/sites/default/…",
+               "indices":[
+                  260,
+                  283
+               ]
+            }
+         ],
+         "media":[
+            {
+               "id":1436933403316686854,
+               "id_str":"1436933403316686854",
+               "indices":[
+                  284,
+                  307
+               ],
+               "media_url":"http://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+               "media_url_https":"https://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+               "url":"https://t.co/buUOumpbOw",
+               "display_url":"pic.twitter.com/buUOumpbOw",
+               "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964/photo/1",
+               "type":"photo",
+               "sizes":{
+                  "thumb":{
+                     "w":150,
+                     "h":150,
+                     "resize":"crop"
+                  },
+                  "large":{
+                     "w":678,
+                     "h":452,
+                     "resize":"fit"
+                  },
+                  "medium":{
+                     "w":678,
+                     "h":452,
+                     "resize":"fit"
+                  },
+                  "small":{
+                     "w":678,
+                     "h":452,
+                     "resize":"fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities":{
+         "media":[
+            {
+               "id":1436933403316686854,
+               "id_str":"1436933403316686854",
+               "indices":[
+                  284,
+                  307
+               ],
+               "media_url":"http://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+               "media_url_https":"https://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+               "url":"https://t.co/buUOumpbOw",
+               "display_url":"pic.twitter.com/buUOumpbOw",
+               "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964/photo/1",
+               "type":"photo",
+               "sizes":{
+                  "thumb":{
+                     "w":150,
+                     "h":150,
+                     "resize":"crop"
+                  },
+                  "large":{
+                     "w":678,
+                     "h":452,
+                     "resize":"fit"
+                  },
+                  "medium":{
+                     "w":678,
+                     "h":452,
+                     "resize":"fit"
+                  },
+                  "small":{
+                     "w":678,
+                     "h":452,
+                     "resize":"fit"
+                  }
+               }
+            }
+         ]
+      },
+      "metadata":{
+         "iso_language_code":"en",
+         "result_type":"recent"
+      },
+      "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id":"None",
+      "in_reply_to_status_id_str":"None",
+      "in_reply_to_user_id":"None",
+      "in_reply_to_user_id_str":"None",
+      "in_reply_to_screen_name":"None",
+      "user":{
+         "id":609884455,
+         "id_str":"609884455",
+         "name":"Rajiv Kumar",
+         "screen_name":"RajivKumar1",
+         "location":"Delhi India",
+         "description":"Vice Chairman @NITIAayog | Economist, Author who loves Sufi music & Sahaja yoga meditation | Views are personal",
+         "url":"https://t.co/U55Sj15mVK",
+         "entities":{
+            "url":{
+               "urls":[
+                  {
+                     "url":"https://t.co/U55Sj15mVK",
+                     "expanded_url":"http://www.niti.gov.in/",
+                     "display_url":"niti.gov.in",
+                     "indices":[
+                        0,
+                        23
+                     ]
+                  }
+               ]
+            },
+            "description":{
+               "urls":[
+
+               ]
+            }
+         },
+         "protected":false,
+         "followers_count":79796,
+         "friends_count":519,
+         "listed_count":201,
+         "created_at":"Sat Jun 16 10:29:20 +0000 2012",
+         "favourites_count":2150,
+         "utc_offset":"None",
+         "time_zone":"None",
+         "geo_enabled":true,
+         "verified":true,
+         "statuses_count":8571,
+         "lang":"None",
+         "contributors_enabled":false,
+         "is_translator":false,
+         "is_translation_enabled":false,
+         "profile_background_color":"C0DEED",
+         "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile":false,
+         "profile_image_url":"http://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+         "profile_image_url_https":"https://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+         "profile_banner_url":"https://pbs.twimg.com/profile_banners/609884455/1605676715",
+         "profile_link_color":"1DA1F2",
+         "profile_sidebar_border_color":"C0DEED",
+         "profile_sidebar_fill_color":"DDEEF6",
+         "profile_text_color":"333333",
+         "profile_use_background_image":true,
+         "has_extended_profile":false,
+         "default_profile":true,
+         "default_profile_image":false,
+         "following":false,
+         "follow_request_sent":false,
+         "notifications":false,
+         "translator_type":"none",
+         "withheld_in_countries":[
+
+         ]
+      },
+      "geo":"None",
+      "coordinates":"None",
+      "place":"None",
+      "contributors":"None",
+      "is_quote_status":false,
+      "retweet_count":184,
+      "favorite_count":1279,
+      "favorited":false,
+      "retweeted":false,
+      "possibly_sensitive":false,
+      "lang":"en"
+   },
+   "retweet_count":143,
+   "favorite_count":1278,
+   "favorited":false,
+   "retweeted":false,
+   "possibly_sensitive":false,
+   "lang":"en"
+},
+created_at=datetime.datetime(2021,
+9,
+12,
+6,
+17,
+57),
+id=1436937106375413767,
+"id_str=""1436937106375413767",
+"full_text=""Many thanks Rajiv Ji to you &amp; Niti Ayog endorsing the growth of Telangana 🙏 https://t.co/ZA6FmUz8yX",
+"truncated=False",
+"display_text_range="[
+   0,
+   79
+],
+"entities="{
+   "hashtags":[
+
+   ],
+   "symbols":[
+
+   ],
+   "user_mentions":[
+
+   ],
+   "urls":[
+      {
+         "url":"https://t.co/ZA6FmUz8yX",
+         "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964",
+         "display_url":"twitter.com/RajivKumar1/st…",
+         "indices":[
+            80,
+            103
+         ]
+      }
+   ]
+},
+"metadata="{
+   "iso_language_code":"en",
+   "result_type":"recent"
+},
+"source=""Twitter for iPhone",
+"source_url=""http://twitter.com/download/iphone",
+"in_reply_to_status_id=None",
+"in_reply_to_status_id_str=None",
+"in_reply_to_user_id=None",
+"in_reply_to_user_id_str=None",
+"in_reply_to_screen_name=None",
+author=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":118787224,
+   "id_str":"118787224",
+   "name":"KTR",
+   "screen_name":"KTRTRS",
+   "location":"Hyderabad, Telangana",
+   "description":"Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":3016423,
+   "friends_count":127,
+   "listed_count":754,
+   "created_at":"Mon Mar 01 19:07:28 +0000 2010",
+   "favourites_count":11793,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":true,
+   "statuses_count":15095,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"C0DEED",
+   "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/118787224/1624581184",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":true,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=118787224,
+"id_str=""118787224",
+"name=""KTR",
+"screen_name=""KTRTRS",
+"location=""Hyderabad, Telangana",
+"description=""Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=3016423,
+friends_count=127,
+listed_count=754,
+created_at=datetime.datetime(2010,
+3,
+1,
+19,
+7,
+28),
+favourites_count=11793,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=True",
+statuses_count=15095,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""C0DEED",
+"profile_background_image_url=""http://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https=""https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/118787224/1624581184",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=True",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+user=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":118787224,
+   "id_str":"118787224",
+   "name":"KTR",
+   "screen_name":"KTRTRS",
+   "location":"Hyderabad, Telangana",
+   "description":"Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":3016423,
+   "friends_count":127,
+   "listed_count":754,
+   "created_at":"Mon Mar 01 19:07:28 +0000 2010",
+   "favourites_count":11793,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":true,
+   "statuses_count":15095,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"C0DEED",
+   "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/118787224/1624581184",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":true,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=118787224,
+"id_str=""118787224",
+"name=""KTR",
+"screen_name=""KTRTRS",
+"location=""Hyderabad, Telangana",
+"description=""Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=3016423,
+friends_count=127,
+listed_count=754,
+created_at=datetime.datetime(2010,
+3,
+1,
+19,
+7,
+28),
+favourites_count=11793,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=True",
+statuses_count=15095,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""C0DEED",
+"profile_background_image_url=""http://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https=""https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/118787224/1624581184",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=True",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+"geo=None",
+"coordinates=None",
+"place=None",
+"contributors=None",
+"is_quote_status=True",
+quoted_status_id=1436933410967080964,
+"quoted_status_id_str=""1436933410967080964",
+quoted_status=Status(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "created_at":"Sun Sep 12 06:03:16 +0000 2021",
+   "id":1436933410967080964,
+   "id_str":"1436933410967080964",
+   "full_text":"With a robust industrial &amp; policy landscape, #Telangana, India's youngest state, is one of the fastest growing states in the country, growing at an avg. annual rate of more than 9% since its formation.  #ArthNITI special #StatesOfTheNation feature here:   https://t.co/hZWVI8dOmy https://t.co/buUOumpbOw",
+   "truncated":false,
+   "display_text_range":[
+      0,
+      283
+   ],
+   "entities":{
+      "hashtags":[
+         {
+            "text":"Telangana",
+            "indices":[
+               49,
+               59
+            ]
+         },
+         {
+            "text":"ArthNITI",
+            "indices":[
+               207,
+               216
+            ]
+         },
+         {
+            "text":"StatesOfTheNation",
+            "indices":[
+               225,
+               243
+            ]
+         }
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+
+      ],
+      "urls":[
+         {
+            "url":"https://t.co/hZWVI8dOmy",
+            "expanded_url":"https://www.niti.gov.in/sites/default/files/2021-08/Arthniti-August_28-08-2021.pdf",
+            "display_url":"niti.gov.in/sites/default/…",
+            "indices":[
+               260,
+               283
+            ]
+         }
+      ],
+      "media":[
+         {
+            "id":1436933403316686854,
+            "id_str":"1436933403316686854",
+            "indices":[
+               284,
+               307
+            ],
+            "media_url":"http://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+            "media_url_https":"https://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+            "url":"https://t.co/buUOumpbOw",
+            "display_url":"pic.twitter.com/buUOumpbOw",
+            "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964/photo/1",
+            "type":"photo",
+            "sizes":{
+               "thumb":{
+                  "w":150,
+                  "h":150,
+                  "resize":"crop"
+               },
+               "large":{
+                  "w":678,
+                  "h":452,
+                  "resize":"fit"
+               },
+               "medium":{
+                  "w":678,
+                  "h":452,
+                  "resize":"fit"
+               },
+               "small":{
+                  "w":678,
+                  "h":452,
+                  "resize":"fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities":{
+      "media":[
+         {
+            "id":1436933403316686854,
+            "id_str":"1436933403316686854",
+            "indices":[
+               284,
+               307
+            ],
+            "media_url":"http://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+            "media_url_https":"https://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+            "url":"https://t.co/buUOumpbOw",
+            "display_url":"pic.twitter.com/buUOumpbOw",
+            "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964/photo/1",
+            "type":"photo",
+            "sizes":{
+               "thumb":{
+                  "w":150,
+                  "h":150,
+                  "resize":"crop"
+               },
+               "large":{
+                  "w":678,
+                  "h":452,
+                  "resize":"fit"
+               },
+               "medium":{
+                  "w":678,
+                  "h":452,
+                  "resize":"fit"
+               },
+               "small":{
+                  "w":678,
+                  "h":452,
+                  "resize":"fit"
+               }
+            }
+         }
+      ]
+   },
+   "metadata":{
+      "iso_language_code":"en",
+      "result_type":"recent"
+   },
+   "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id":"None",
+   "in_reply_to_status_id_str":"None",
+   "in_reply_to_user_id":"None",
+   "in_reply_to_user_id_str":"None",
+   "in_reply_to_screen_name":"None",
+   "user":{
+      "id":609884455,
+      "id_str":"609884455",
+      "name":"Rajiv Kumar",
+      "screen_name":"RajivKumar1",
+      "location":"Delhi India",
+      "description":"Vice Chairman @NITIAayog | Economist, Author who loves Sufi music & Sahaja yoga meditation | Views are personal",
+      "url":"https://t.co/U55Sj15mVK",
+      "entities":{
+         "url":{
+            "urls":[
+               {
+                  "url":"https://t.co/U55Sj15mVK",
+                  "expanded_url":"http://www.niti.gov.in/",
+                  "display_url":"niti.gov.in",
+                  "indices":[
+                     0,
+                     23
+                  ]
+               }
+            ]
+         },
+         "description":{
+            "urls":[
+
+            ]
+         }
+      },
+      "protected":false,
+      "followers_count":79796,
+      "friends_count":519,
+      "listed_count":201,
+      "created_at":"Sat Jun 16 10:29:20 +0000 2012",
+      "favourites_count":2150,
+      "utc_offset":"None",
+      "time_zone":"None",
+      "geo_enabled":true,
+      "verified":true,
+      "statuses_count":8571,
+      "lang":"None",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"C0DEED",
+      "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile":false,
+      "profile_image_url":"http://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+      "profile_image_url_https":"https://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+      "profile_banner_url":"https://pbs.twimg.com/profile_banners/609884455/1605676715",
+      "profile_link_color":"1DA1F2",
+      "profile_sidebar_border_color":"C0DEED",
+      "profile_sidebar_fill_color":"DDEEF6",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":true,
+      "default_profile_image":false,
+      "following":false,
+      "follow_request_sent":false,
+      "notifications":false,
+      "translator_type":"none",
+      "withheld_in_countries":[
+
+      ]
+   },
+   "geo":"None",
+   "coordinates":"None",
+   "place":"None",
+   "contributors":"None",
+   "is_quote_status":false,
+   "retweet_count":184,
+   "favorite_count":1279,
+   "favorited":false,
+   "retweeted":false,
+   "possibly_sensitive":false,
+   "lang":"en"
+},
+created_at=datetime.datetime(2021,
+9,
+12,
+6,
+3,
+16),
+id=1436933410967080964,
+"id_str=""1436933410967080964",
+"full_text=""With a robust industrial &amp; policy landscape, #Telangana, India's youngest state, is one of the fastest growing states in the country, growing at an avg. annual rate of more than 9% since its formation.  #ArthNITI special #StatesOfTheNation feature here:   https://t.co/hZWVI8dOmy https://t.co/buUOumpbOw",
+"truncated=False",
+"display_text_range="[
+   0,
+   283
+],
+"entities="{
+   "hashtags":[
+      {
+         "text":"Telangana",
+         "indices":[
+            49,
+            59
+         ]
+      },
+      {
+         "text":"ArthNITI",
+         "indices":[
+            207,
+            216
+         ]
+      },
+      {
+         "text":"StatesOfTheNation",
+         "indices":[
+            225,
+            243
+         ]
+      }
+   ],
+   "symbols":[
+
+   ],
+   "user_mentions":[
+
+   ],
+   "urls":[
+      {
+         "url":"https://t.co/hZWVI8dOmy",
+         "expanded_url":"https://www.niti.gov.in/sites/default/files/2021-08/Arthniti-August_28-08-2021.pdf",
+         "display_url":"niti.gov.in/sites/default/…",
+         "indices":[
+            260,
+            283
+         ]
+      }
+   ],
+   "media":[
+      {
+         "id":1436933403316686854,
+         "id_str":"1436933403316686854",
+         "indices":[
+            284,
+            307
+         ],
+         "media_url":"http://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+         "media_url_https":"https://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+         "url":"https://t.co/buUOumpbOw",
+         "display_url":"pic.twitter.com/buUOumpbOw",
+         "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964/photo/1",
+         "type":"photo",
+         "sizes":{
+            "thumb":{
+               "w":150,
+               "h":150,
+               "resize":"crop"
+            },
+            "large":{
+               "w":678,
+               "h":452,
+               "resize":"fit"
+            },
+            "medium":{
+               "w":678,
+               "h":452,
+               "resize":"fit"
+            },
+            "small":{
+               "w":678,
+               "h":452,
+               "resize":"fit"
+            }
+         }
+      }
+   ]
+},
+"extended_entities="{
+   "media":[
+      {
+         "id":1436933403316686854,
+         "id_str":"1436933403316686854",
+         "indices":[
+            284,
+            307
+         ],
+         "media_url":"http://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+         "media_url_https":"https://pbs.twimg.com/media/E_EDUS6VkAYLt7X.jpg",
+         "url":"https://t.co/buUOumpbOw",
+         "display_url":"pic.twitter.com/buUOumpbOw",
+         "expanded_url":"https://twitter.com/RajivKumar1/status/1436933410967080964/photo/1",
+         "type":"photo",
+         "sizes":{
+            "thumb":{
+               "w":150,
+               "h":150,
+               "resize":"crop"
+            },
+            "large":{
+               "w":678,
+               "h":452,
+               "resize":"fit"
+            },
+            "medium":{
+               "w":678,
+               "h":452,
+               "resize":"fit"
+            },
+            "small":{
+               "w":678,
+               "h":452,
+               "resize":"fit"
+            }
+         }
+      }
+   ]
+},
+"metadata="{
+   "iso_language_code":"en",
+   "result_type":"recent"
+},
+"source=""Twitter for iPhone",
+"source_url=""http://twitter.com/download/iphone",
+"in_reply_to_status_id=None",
+"in_reply_to_status_id_str=None",
+"in_reply_to_user_id=None",
+"in_reply_to_user_id_str=None",
+"in_reply_to_screen_name=None",
+author=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":609884455,
+   "id_str":"609884455",
+   "name":"Rajiv Kumar",
+   "screen_name":"RajivKumar1",
+   "location":"Delhi India",
+   "description":"Vice Chairman @NITIAayog | Economist, Author who loves Sufi music & Sahaja yoga meditation | Views are personal",
+   "url":"https://t.co/U55Sj15mVK",
+   "entities":{
+      "url":{
+         "urls":[
+            {
+               "url":"https://t.co/U55Sj15mVK",
+               "expanded_url":"http://www.niti.gov.in/",
+               "display_url":"niti.gov.in",
+               "indices":[
+                  0,
+                  23
+               ]
+            }
+         ]
+      },
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":79796,
+   "friends_count":519,
+   "listed_count":201,
+   "created_at":"Sat Jun 16 10:29:20 +0000 2012",
+   "favourites_count":2150,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":true,
+   "verified":true,
+   "statuses_count":8571,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"C0DEED",
+   "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/609884455/1605676715",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":false,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=609884455,
+"id_str=""609884455",
+"name=""Rajiv Kumar",
+"screen_name=""RajivKumar1",
+"location=""Delhi India",
+"description=""Vice Chairman @NITIAayog | Economist, Author who loves Sufi music & Sahaja yoga meditation | Views are personal",
+"url=""https://t.co/U55Sj15mVK",
+"entities="{
+   "url":{
+      "urls":[
+         {
+            "url":"https://t.co/U55Sj15mVK",
+            "expanded_url":"http://www.niti.gov.in/",
+            "display_url":"niti.gov.in",
+            "indices":[
+               0,
+               23
+            ]
+         }
+      ]
+   },
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=79796,
+friends_count=519,
+listed_count=201,
+created_at=datetime.datetime(2012,
+6,
+16,
+10,
+29,
+20),
+favourites_count=2150,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=True",
+"verified=True",
+statuses_count=8571,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""C0DEED",
+"profile_background_image_url=""http://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https=""https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/609884455/1605676715",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=False",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+user=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":609884455,
+   "id_str":"609884455",
+   "name":"Rajiv Kumar",
+   "screen_name":"RajivKumar1",
+   "location":"Delhi India",
+   "description":"Vice Chairman @NITIAayog | Economist, Author who loves Sufi music & Sahaja yoga meditation | Views are personal",
+   "url":"https://t.co/U55Sj15mVK",
+   "entities":{
+      "url":{
+         "urls":[
+            {
+               "url":"https://t.co/U55Sj15mVK",
+               "expanded_url":"http://www.niti.gov.in/",
+               "display_url":"niti.gov.in",
+               "indices":[
+                  0,
+                  23
+               ]
+            }
+         ]
+      },
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":79796,
+   "friends_count":519,
+   "listed_count":201,
+   "created_at":"Sat Jun 16 10:29:20 +0000 2012",
+   "favourites_count":2150,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":true,
+   "verified":true,
+   "statuses_count":8571,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"C0DEED",
+   "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/609884455/1605676715",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":false,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=609884455,
+"id_str=""609884455",
+"name=""Rajiv Kumar",
+"screen_name=""RajivKumar1",
+"location=""Delhi India",
+"description=""Vice Chairman @NITIAayog | Economist, Author who loves Sufi music & Sahaja yoga meditation | Views are personal",
+"url=""https://t.co/U55Sj15mVK",
+"entities="{
+   "url":{
+      "urls":[
+         {
+            "url":"https://t.co/U55Sj15mVK",
+            "expanded_url":"http://www.niti.gov.in/",
+            "display_url":"niti.gov.in",
+            "indices":[
+               0,
+               23
+            ]
+         }
+      ]
+   },
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=79796,
+friends_count=519,
+listed_count=201,
+created_at=datetime.datetime(2012,
+6,
+16,
+10,
+29,
+20),
+favourites_count=2150,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=True",
+"verified=True",
+statuses_count=8571,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""C0DEED",
+"profile_background_image_url=""http://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https=""https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1272469075927502850/QfPZwsvZ_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/609884455/1605676715",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=False",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+"geo=None",
+"coordinates=None",
+"place=None",
+"contributors=None",
+"is_quote_status=False",
+retweet_count=184,
+favorite_count=1279,
+"favorited=False",
+"retweeted=False",
+"possibly_sensitive=False",
+"lang=""en"")",
+retweet_count=143,
+favorite_count=1278,
+"favorited=False",
+"retweeted=False",
+"possibly_sensitive=False",
+"lang=""en"")",
+"is_quote_status=True",
+quoted_status_id=1436933410967080964,
+"quoted_status_id_str=""1436933410967080964",
+retweet_count=143,
+favorite_count=0,
+"favorited=False",
+"retweeted=False",
+"lang=""en")

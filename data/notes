@@ -1,0 +1,2276 @@
+verified -> means profile tick ?
+Country from the tweet ? or from the config file ?
+tweet.id_str ?
+in_reply_to_status_id_str ? for reply tweet id ???
+int is the new long in python 3 ?
+add reply text
+text_general ? for text
+text_xx and text have same content ?
+Geolocation is tweet.geo ??
+
+
+Status(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "created_at":"Tue Sep 14 10:22:31 +0000 2021",
+   "id":1437723426144206851,
+   "id_str":"1437723426144206851",
+   "full_text":"RT @KTRTRS: We will take care brother\n\n @KTRoffice please reach out and work with @Collector_MNCL and @WCDTelangana",
+   "truncated":false,
+   "display_text_range":[
+      0,
+      115
+   ],
+   "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+         {
+            "screen_name":"KTRTRS",
+            "name":"KTR",
+            "id":118787224,
+            "id_str":"118787224",
+            "indices":[
+               3,
+               10
+            ]
+         },
+         {
+            "screen_name":"KTRoffice",
+            "name":"Office of KTR",
+            "id":857093639624945672,
+            "id_str":"857093639624945672",
+            "indices":[
+               40,
+               50
+            ]
+         },
+         {
+            "screen_name":"Collector_MNCL",
+            "name":"Collector Mancherial",
+            "id":852420985265377280,
+            "id_str":"852420985265377280",
+            "indices":[
+               82,
+               97
+            ]
+         },
+         {
+            "screen_name":"WCDTelangana",
+            "name":"WCDTelangana",
+            "id":970956922072510464,
+            "id_str":"970956922072510464",
+            "indices":[
+               102,
+               115
+            ]
+         }
+      ],
+      "urls":[
+
+      ]
+   },
+   "metadata":{
+      "iso_language_code":"en",
+      "result_type":"recent"
+   },
+   "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "in_reply_to_status_id":"None",
+   "in_reply_to_status_id_str":"None",
+   "in_reply_to_user_id":"None",
+   "in_reply_to_user_id_str":"None",
+   "in_reply_to_screen_name":"None",
+   --------------------------
+   "user":{
+      "id":1374582888230834177,
+      "id_str":"1374582888230834177",
+      "name":"Devarakonda Suresh Babu",
+      "screen_name":"Harsha035636251",
+      "location":"Telangana,",
+      "description":"2018,జనవరి నుండి ట్విట్టర్ లో ఉన్నాను,నా పాత ఎకౌంట్ పోయింది.help for needy.",
+      "url":"None",
+      "entities":{
+         "description":{
+            "urls":[
+
+            ]
+         }
+      },
+      "protected":false,
+      "followers_count":460,
+      "friends_count":915,
+      "listed_count":0,
+      "created_at":"Wed Mar 24 04:45:03 +0000 2021",
+      "favourites_count":36586,
+      "utc_offset":"None",
+      "time_zone":"None",
+      "geo_enabled":false,
+      "verified":false,
+      "statuses_count":12837,
+      "lang":"None",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"F5F8FA",
+      "profile_background_image_url":"None",
+      "profile_background_image_url_https":"None",
+      "profile_background_tile":false,
+      "profile_image_url":"http://pbs.twimg.com/profile_images/1433923624314961925/XcG3lYsX_normal.jpg",
+      "profile_image_url_https":"https://pbs.twimg.com/profile_images/1433923624314961925/XcG3lYsX_normal.jpg",
+      "profile_link_color":"1DA1F2",
+      "profile_sidebar_border_color":"C0DEED",
+      "profile_sidebar_fill_color":"DDEEF6",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":true,
+      "default_profile":true,
+      "default_profile_image":false,
+      "following":false,
+      "follow_request_sent":false,
+      "notifications":false,
+      "translator_type":"none",
+      "withheld_in_countries":[
+
+      ]
+   },
+   "geo":"None",
+   "coordinates":"None",
+   "place":"None",
+   "contributors":"None",
+   "retweeted_status":{
+      "created_at":"Mon Sep 13 03:47:06 +0000 2021",
+      "id":1437261529129181188,
+      "id_str":"1437261529129181188",
+      "full_text":"We will take care brother\n\n @KTRoffice please reach out and work with @Collector_MNCL and @WCDTelangana https://t.co/7v2M2rzDaJ",
+      "truncated":false,
+      "display_text_range":[
+         0,
+         103
+      ],
+      "entities":{
+         "hashtags":[
+
+         ],
+         "symbols":[
+
+         ],
+         "user_mentions":[
+            {
+               "screen_name":"KTRoffice",
+               "name":"Office of KTR",
+               "id":857093639624945672,
+               "id_str":"857093639624945672",
+               "indices":[
+                  28,
+                  38
+               ]
+            },
+            {
+               "screen_name":"Collector_MNCL",
+               "name":"Collector Mancherial",
+               "id":852420985265377280,
+               "id_str":"852420985265377280",
+               "indices":[
+                  70,
+                  85
+               ]
+            },
+            {
+               "screen_name":"WCDTelangana",
+               "name":"WCDTelangana",
+               "id":970956922072510464,
+               "id_str":"970956922072510464",
+               "indices":[
+                  90,
+                  103
+               ]
+            }
+         ],
+         "urls":[
+            {
+               "url":"https://t.co/7v2M2rzDaJ",
+               "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784",
+               "display_url":"twitter.com/krishnathode/s…",
+               "indices":[
+                  104,
+                  127
+               ]
+            }
+         ]
+      },
+      "metadata":{
+         "iso_language_code":"en",
+         "result_type":"recent"
+      },
+      "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id":"None",
+      "in_reply_to_status_id_str":"None",
+      "in_reply_to_user_id":"None",
+      "in_reply_to_user_id_str":"None",
+      "in_reply_to_screen_name":"None",
+      "user":{
+         "id":118787224,
+         "id_str":"118787224",
+         "name":"KTR",
+         "screen_name":"KTRTRS",
+         "location":"Hyderabad, Telangana",
+         "description":"Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+         "url":"None",
+         "entities":{
+            "description":{
+               "urls":[
+
+               ]
+            }
+         },
+         "protected":false,
+         "followers_count":3019772,
+         "friends_count":127,
+         "listed_count":756,
+         "created_at":"Mon Mar 01 19:07:28 +0000 2010",
+         "favourites_count":11828,
+         "utc_offset":"None",
+         "time_zone":"None",
+         "geo_enabled":false,
+         "verified":true,
+         "statuses_count":15121,
+         "lang":"None",
+         "contributors_enabled":false,
+         "is_translator":false,
+         "is_translation_enabled":false,
+         "profile_background_color":"C0DEED",
+         "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile":false,
+         "profile_image_url":"http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+         "profile_image_url_https":"https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+         "profile_banner_url":"https://pbs.twimg.com/profile_banners/118787224/1624581184",
+         "profile_link_color":"1DA1F2",
+         "profile_sidebar_border_color":"C0DEED",
+         "profile_sidebar_fill_color":"DDEEF6",
+         "profile_text_color":"333333",
+         "profile_use_background_image":true,
+         "has_extended_profile":true,
+         "default_profile":true,
+         "default_profile_image":false,
+         "following":false,
+         "follow_request_sent":false,
+         "notifications":false,
+         "translator_type":"none",
+         "withheld_in_countries":[
+
+         ]
+      },
+
+      --------------------
+      "geo":"None",
+      "coordinates":"None",
+      "place":"None",
+      "contributors":"None",
+      "is_quote_status":true,
+      "quoted_status_id":1437250532968566784,
+      "quoted_status_id_str":"1437250532968566784",
+      "quoted_status":{
+         "created_at":"Mon Sep 13 03:03:24 +0000 2021",
+         "id":1437250532968566784,
+         "id_str":"1437250532968566784",
+         "full_text":"సర్ @KTRTRS @BTR_KTR @kmr_ktr @KonathamDileep @KTR_News @KTRoffice @MinisterKTR  నెన్నెల కి చెందిన చిన్నయ్య ఇంటికి పెద్ద దిక్కు ప్రమాదం తో  కాళ్లు తీసేసారు ప్రభుత్వ సాయం మరియు వైద్య సాయం అందించి వారి పిల్లలకు విద్య కు సహాయం చేయగలరు సర్ @jagadishTRS @DTsnpdcl https://t.co/x2GeiwWw1f",
+         "truncated":false,
+         "display_text_range":[
+            0,
+            258
+         ],
+         "entities":{
+            "hashtags":[
+
+            ],
+            "symbols":[
+
+            ],
+            "user_mentions":[
+               {
+                  "screen_name":"KTRTRS",
+                  "name":"KTR",
+                  "id":118787224,
+                  "id_str":"118787224",
+                  "indices":[
+                     4,
+                     11
+                  ]
+               },
+               {
+                  "screen_name":"BTR_KTR",
+                  "name":"Thirupathi Bandari",
+                  "id":541625472,
+                  "id_str":"541625472",
+                  "indices":[
+                     12,
+                     20
+                  ]
+               },
+               {
+                  "screen_name":"kmr_ktr",
+                  "name":"KMR@KTR",
+                  "id":2919875354,
+                  "id_str":"2919875354",
+                  "indices":[
+                     21,
+                     29
+                  ]
+               },
+               {
+                  "screen_name":"KonathamDileep",
+                  "name":"Konatham Dileep",
+                  "id":3294963926,
+                  "id_str":"3294963926",
+                  "indices":[
+                     30,
+                     45
+                  ]
+               },
+               {
+                  "screen_name":"KTR_News",
+                  "name":"KTR News",
+                  "id":870891662054088704,
+                  "id_str":"870891662054088704",
+                  "indices":[
+                     46,
+                     55
+                  ]
+               },
+               {
+                  "screen_name":"KTRoffice",
+                  "name":"Office of KTR",
+                  "id":857093639624945672,
+                  "id_str":"857093639624945672",
+                  "indices":[
+                     56,
+                     66
+                  ]
+               },
+               {
+                  "screen_name":"MinisterKTR",
+                  "name":"Minister for IT, Industries, MA & UD, Telangana",
+                  "id":2550018541,
+                  "id_str":"2550018541",
+                  "indices":[
+                     67,
+                     79
+                  ]
+               },
+               {
+                  "screen_name":"jagadishTRS",
+                  "name":"Jagadish Reddy G",
+                  "id":1163433644171509762,
+                  "id_str":"1163433644171509762",
+                  "indices":[
+                     236,
+                     248
+                  ]
+               },
+               {
+                  "screen_name":"DTsnpdcl",
+                  "name":"Director_NPDCL",
+                  "id":1119097910312849410,
+                  "id_str":"1119097910312849410",
+                  "indices":[
+                     249,
+                     258
+                  ]
+               }
+            ],
+            "urls":[
+
+            ],
+            "media":[
+               {
+                  "id":1437250529109811202,
+                  "id_str":"1437250529109811202",
+                  "indices":[
+                     259,
+                     282
+                  ],
+                  "media_url":"http://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+                  "media_url_https":"https://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+                  "url":"https://t.co/x2GeiwWw1f",
+                  "display_url":"pic.twitter.com/x2GeiwWw1f",
+                  "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784/photo/1",
+                  "type":"photo",
+                  "sizes":{
+                     "small":{
+                        "w":507,
+                        "h":675,
+                        "resize":"fit"
+                     },
+                     "thumb":{
+                        "w":150,
+                        "h":150,
+                        "resize":"crop"
+                     },
+                     "medium":{
+                        "w":507,
+                        "h":675,
+                        "resize":"fit"
+                     },
+                     "large":{
+                        "w":507,
+                        "h":675,
+                        "resize":"fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "extended_entities":{
+            "media":[
+               {
+                  "id":1437250529109811202,
+                  "id_str":"1437250529109811202",
+                  "indices":[
+                     259,
+                     282
+                  ],
+                  "media_url":"http://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+                  "media_url_https":"https://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+                  "url":"https://t.co/x2GeiwWw1f",
+                  "display_url":"pic.twitter.com/x2GeiwWw1f",
+                  "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784/photo/1",
+                  "type":"photo",
+                  "sizes":{
+                     "small":{
+                        "w":507,
+                        "h":675,
+                        "resize":"fit"
+                     },
+                     "thumb":{
+                        "w":150,
+                        "h":150,
+                        "resize":"crop"
+                     },
+                     "medium":{
+                        "w":507,
+                        "h":675,
+                        "resize":"fit"
+                     },
+                     "large":{
+                        "w":507,
+                        "h":675,
+                        "resize":"fit"
+                     }
+                  }
+               }
+            ]
+         },
+         "metadata":{
+            "iso_language_code":"en",
+            "result_type":"recent"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "in_reply_to_status_id":"None",
+         "in_reply_to_status_id_str":"None",
+         "in_reply_to_user_id":"None",
+         "in_reply_to_user_id_str":"None",
+         "in_reply_to_screen_name":"None",
+         "user":{
+            "id":780966765899583488,
+            "id_str":"780966765899583488",
+            "name":"krishnareddy",
+            "screen_name":"krishnathode",
+            "location":"CA",
+            "description":"",
+            "url":"None",
+            "entities":{
+               "description":{
+                  "urls":[
+
+                  ]
+               }
+            },
+            "protected":false,
+            "followers_count":105,
+            "friends_count":181,
+            "listed_count":0,
+            "created_at":"Wed Sep 28 03:06:01 +0000 2016",
+            "favourites_count":1144,
+            "utc_offset":"None",
+            "time_zone":"None",
+            "geo_enabled":true,
+            "verified":false,
+            "statuses_count":603,
+            "lang":"None",
+            "contributors_enabled":false,
+            "is_translator":false,
+            "is_translation_enabled":false,
+            "profile_background_color":"F5F8FA",
+            "profile_background_image_url":"None",
+            "profile_background_image_url_https":"None",
+            "profile_background_tile":false,
+            "profile_image_url":"http://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+            "profile_image_url_https":"https://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+            "profile_link_color":"1DA1F2",
+            "profile_sidebar_border_color":"C0DEED",
+            "profile_sidebar_fill_color":"DDEEF6",
+            "profile_text_color":"333333",
+            "profile_use_background_image":true,
+            "has_extended_profile":false,
+            "default_profile":true,
+            "default_profile_image":false,
+            "following":false,
+            "follow_request_sent":false,
+            "notifications":false,
+            "translator_type":"none",
+            "withheld_in_countries":[
+
+            ]
+         },
+
+         -----------
+         "geo":"None",
+         "coordinates":"None",
+         "place":"None",
+         "contributors":"None",
+         "is_quote_status":false,
+         "retweet_count":17,
+         "favorite_count":25,
+         "favorited":false,
+         "retweeted":false,
+         "possibly_sensitive":false,
+         "lang":"te"
+      },
+      "retweet_count":83,
+      "favorite_count":846,
+      "favorited":false,
+      "retweeted":false,
+      "possibly_sensitive":false,
+      "lang":"en"
+   },
+   "is_quote_status":true,
+   "quoted_status_id":1437250532968566784,
+   "quoted_status_id_str":"1437250532968566784",
+   "retweet_count":83,
+   "favorite_count":0,
+   "favorited":false,
+   "retweeted":false,
+   "lang":"en"
+},
+created_at=datetime.datetime(2021,
+9,
+14,
+10,
+22,
+31),
+id=1437723426144206851,
+"id_str=""1437723426144206851",
+"full_text=""RT @KTRTRS: We will take care brother\n\n @KTRoffice please reach out and work with @Collector_MNCL and @WCDTelangana",
+"truncated=False",
+"display_text_range="[
+   0,
+   115
+],
+"entities="{
+   "hashtags":[
+
+   ],
+   "symbols":[
+
+   ],
+   "user_mentions":[
+      {
+         "screen_name":"KTRTRS",
+         "name":"KTR",
+         "id":118787224,
+         "id_str":"118787224",
+         "indices":[
+            3,
+            10
+         ]
+      },
+      {
+         "screen_name":"KTRoffice",
+         "name":"Office of KTR",
+         "id":857093639624945672,
+         "id_str":"857093639624945672",
+         "indices":[
+            40,
+            50
+         ]
+      },
+      {
+         "screen_name":"Collector_MNCL",
+         "name":"Collector Mancherial",
+         "id":852420985265377280,
+         "id_str":"852420985265377280",
+         "indices":[
+            82,
+            97
+         ]
+      },
+      {
+         "screen_name":"WCDTelangana",
+         "name":"WCDTelangana",
+         "id":970956922072510464,
+         "id_str":"970956922072510464",
+         "indices":[
+            102,
+            115
+         ]
+      }
+   ],
+   "urls":[
+
+   ]
+},
+"metadata="{
+   "iso_language_code":"en",
+   "result_type":"recent"
+},
+"source=""Twitter for Android",
+"source_url=""http://twitter.com/download/android",
+"in_reply_to_status_id=None",
+"in_reply_to_status_id_str=None",
+"in_reply_to_user_id=None",
+"in_reply_to_user_id_str=None",
+"in_reply_to_screen_name=None",
+author=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":1374582888230834177,
+   "id_str":"1374582888230834177",
+   "name":"Devarakonda Suresh Babu",
+   "screen_name":"Harsha035636251",
+   "location":"Telangana,",
+   "description":"2018,జనవరి నుండి ట్విట్టర్ లో ఉన్నాను,నా పాత ఎకౌంట్ పోయింది.help for needy.",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":460,
+   "friends_count":915,
+   "listed_count":0,
+   "created_at":"Wed Mar 24 04:45:03 +0000 2021",
+   "favourites_count":36586,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":false,
+   "statuses_count":12837,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"F5F8FA",
+   "profile_background_image_url":"None",
+   "profile_background_image_url_https":"None",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1433923624314961925/XcG3lYsX_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1433923624314961925/XcG3lYsX_normal.jpg",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":true,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=1374582888230834177,
+"id_str=""1374582888230834177",
+"name=""Devarakonda Suresh Babu",
+"screen_name=""Harsha035636251",
+"location=""Telangana,",
+"description=""2018,జనవరి నుండి ట్విట్టర్ లో ఉన్నాను,నా పాత ఎకౌంట్ పోయింది.help for needy.",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=460,
+friends_count=915,
+listed_count=0,
+created_at=datetime.datetime(2021,
+3,
+24,
+4,
+45,
+3),
+favourites_count=36586,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=False",
+statuses_count=12837,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""F5F8FA",
+"profile_background_image_url=None",
+"profile_background_image_url_https=None",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1433923624314961925/XcG3lYsX_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1433923624314961925/XcG3lYsX_normal.jpg",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=True",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+user=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":1374582888230834177,
+   "id_str":"1374582888230834177",
+   "name":"Devarakonda Suresh Babu",
+   "screen_name":"Harsha035636251",
+   "location":"Telangana,",
+   "description":"2018,జనవరి నుండి ట్విట్టర్ లో ఉన్నాను,నా పాత ఎకౌంట్ పోయింది.help for needy.",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":460,
+   "friends_count":915,
+   "listed_count":0,
+   "created_at":"Wed Mar 24 04:45:03 +0000 2021",
+   "favourites_count":36586,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":false,
+   "statuses_count":12837,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"F5F8FA",
+   "profile_background_image_url":"None",
+   "profile_background_image_url_https":"None",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1433923624314961925/XcG3lYsX_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1433923624314961925/XcG3lYsX_normal.jpg",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":true,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=1374582888230834177,
+"id_str=""1374582888230834177",
+"name=""Devarakonda Suresh Babu",
+"screen_name=""Harsha035636251",
+"location=""Telangana,",
+"description=""2018,జనవరి నుండి ట్విట్టర్ లో ఉన్నాను,నా పాత ఎకౌంట్ పోయింది.help for needy.",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=460,
+friends_count=915,
+listed_count=0,
+created_at=datetime.datetime(2021,
+3,
+24,
+4,
+45,
+3),
+favourites_count=36586,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=False",
+statuses_count=12837,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""F5F8FA",
+"profile_background_image_url=None",
+"profile_background_image_url_https=None",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1433923624314961925/XcG3lYsX_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1433923624314961925/XcG3lYsX_normal.jpg",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=True",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+"geo=None",
+"coordinates=None",
+"place=None",
+"contributors=None",
+retweeted_status=Status(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "created_at":"Mon Sep 13 03:47:06 +0000 2021",
+   "id":1437261529129181188,
+   "id_str":"1437261529129181188",
+   "full_text":"We will take care brother\n\n @KTRoffice please reach out and work with @Collector_MNCL and @WCDTelangana https://t.co/7v2M2rzDaJ",
+   "truncated":false,
+   "display_text_range":[
+      0,
+      103
+   ],
+   "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+         {
+            "screen_name":"KTRoffice",
+            "name":"Office of KTR",
+            "id":857093639624945672,
+            "id_str":"857093639624945672",
+            "indices":[
+               28,
+               38
+            ]
+         },
+         {
+            "screen_name":"Collector_MNCL",
+            "name":"Collector Mancherial",
+            "id":852420985265377280,
+            "id_str":"852420985265377280",
+            "indices":[
+               70,
+               85
+            ]
+         },
+         {
+            "screen_name":"WCDTelangana",
+            "name":"WCDTelangana",
+            "id":970956922072510464,
+            "id_str":"970956922072510464",
+            "indices":[
+               90,
+               103
+            ]
+         }
+      ],
+      "urls":[
+         {
+            "url":"https://t.co/7v2M2rzDaJ",
+            "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784",
+            "display_url":"twitter.com/krishnathode/s…",
+            "indices":[
+               104,
+               127
+            ]
+         }
+      ]
+   },
+   "metadata":{
+      "iso_language_code":"en",
+      "result_type":"recent"
+   },
+   "source":"<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id":"None",
+   "in_reply_to_status_id_str":"None",
+   "in_reply_to_user_id":"None",
+   "in_reply_to_user_id_str":"None",
+   "in_reply_to_screen_name":"None",
+   "user":{
+      "id":118787224,
+      "id_str":"118787224",
+      "name":"KTR",
+      "screen_name":"KTRTRS",
+      "location":"Hyderabad, Telangana",
+      "description":"Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+      "url":"None",
+      "entities":{
+         "description":{
+            "urls":[
+
+            ]
+         }
+      },
+      "protected":false,
+      "followers_count":3019772,
+      "friends_count":127,
+      "listed_count":756,
+      "created_at":"Mon Mar 01 19:07:28 +0000 2010",
+      "favourites_count":11828,
+      "utc_offset":"None",
+      "time_zone":"None",
+      "geo_enabled":false,
+      "verified":true,
+      "statuses_count":15121,
+      "lang":"None",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"C0DEED",
+      "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile":false,
+      "profile_image_url":"http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+      "profile_image_url_https":"https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+      "profile_banner_url":"https://pbs.twimg.com/profile_banners/118787224/1624581184",
+      "profile_link_color":"1DA1F2",
+      "profile_sidebar_border_color":"C0DEED",
+      "profile_sidebar_fill_color":"DDEEF6",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":true,
+      "default_profile":true,
+      "default_profile_image":false,
+      "following":false,
+      "follow_request_sent":false,
+      "notifications":false,
+      "translator_type":"none",
+      "withheld_in_countries":[
+
+      ]
+   },
+   "geo":"None",
+   "coordinates":"None",
+   "place":"None",
+   "contributors":"None",
+   "is_quote_status":true,
+   "quoted_status_id":1437250532968566784,
+   "quoted_status_id_str":"1437250532968566784",
+   "quoted_status":{
+      "created_at":"Mon Sep 13 03:03:24 +0000 2021",
+      "id":1437250532968566784,
+      "id_str":"1437250532968566784",
+      "full_text":"సర్ @KTRTRS @BTR_KTR @kmr_ktr @KonathamDileep @KTR_News @KTRoffice @MinisterKTR  నెన్నెల కి చెందిన చిన్నయ్య ఇంటికి పెద్ద దిక్కు ప్రమాదం తో  కాళ్లు తీసేసారు ప్రభుత్వ సాయం మరియు వైద్య సాయం అందించి వారి పిల్లలకు విద్య కు సహాయం చేయగలరు సర్ @jagadishTRS @DTsnpdcl https://t.co/x2GeiwWw1f",
+      "truncated":false,
+      "display_text_range":[
+         0,
+         258
+      ],
+      "entities":{
+         "hashtags":[
+
+         ],
+         "symbols":[
+
+         ],
+         "user_mentions":[
+            {
+               "screen_name":"KTRTRS",
+               "name":"KTR",
+               "id":118787224,
+               "id_str":"118787224",
+               "indices":[
+                  4,
+                  11
+               ]
+            },
+            {
+               "screen_name":"BTR_KTR",
+               "name":"Thirupathi Bandari",
+               "id":541625472,
+               "id_str":"541625472",
+               "indices":[
+                  12,
+                  20
+               ]
+            },
+            {
+               "screen_name":"kmr_ktr",
+               "name":"KMR@KTR",
+               "id":2919875354,
+               "id_str":"2919875354",
+               "indices":[
+                  21,
+                  29
+               ]
+            },
+            {
+               "screen_name":"KonathamDileep",
+               "name":"Konatham Dileep",
+               "id":3294963926,
+               "id_str":"3294963926",
+               "indices":[
+                  30,
+                  45
+               ]
+            },
+            {
+               "screen_name":"KTR_News",
+               "name":"KTR News",
+               "id":870891662054088704,
+               "id_str":"870891662054088704",
+               "indices":[
+                  46,
+                  55
+               ]
+            },
+            {
+               "screen_name":"KTRoffice",
+               "name":"Office of KTR",
+               "id":857093639624945672,
+               "id_str":"857093639624945672",
+               "indices":[
+                  56,
+                  66
+               ]
+            },
+            {
+               "screen_name":"MinisterKTR",
+               "name":"Minister for IT, Industries, MA & UD, Telangana",
+               "id":2550018541,
+               "id_str":"2550018541",
+               "indices":[
+                  67,
+                  79
+               ]
+            },
+            {
+               "screen_name":"jagadishTRS",
+               "name":"Jagadish Reddy G",
+               "id":1163433644171509762,
+               "id_str":"1163433644171509762",
+               "indices":[
+                  236,
+                  248
+               ]
+            },
+            {
+               "screen_name":"DTsnpdcl",
+               "name":"Director_NPDCL",
+               "id":1119097910312849410,
+               "id_str":"1119097910312849410",
+               "indices":[
+                  249,
+                  258
+               ]
+            }
+         ],
+         "urls":[
+
+         ],
+         "media":[
+            {
+               "id":1437250529109811202,
+               "id_str":"1437250529109811202",
+               "indices":[
+                  259,
+                  282
+               ],
+               "media_url":"http://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+               "media_url_https":"https://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+               "url":"https://t.co/x2GeiwWw1f",
+               "display_url":"pic.twitter.com/x2GeiwWw1f",
+               "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784/photo/1",
+               "type":"photo",
+               "sizes":{
+                  "small":{
+                     "w":507,
+                     "h":675,
+                     "resize":"fit"
+                  },
+                  "thumb":{
+                     "w":150,
+                     "h":150,
+                     "resize":"crop"
+                  },
+                  "medium":{
+                     "w":507,
+                     "h":675,
+                     "resize":"fit"
+                  },
+                  "large":{
+                     "w":507,
+                     "h":675,
+                     "resize":"fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities":{
+         "media":[
+            {
+               "id":1437250529109811202,
+               "id_str":"1437250529109811202",
+               "indices":[
+                  259,
+                  282
+               ],
+               "media_url":"http://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+               "media_url_https":"https://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+               "url":"https://t.co/x2GeiwWw1f",
+               "display_url":"pic.twitter.com/x2GeiwWw1f",
+               "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784/photo/1",
+               "type":"photo",
+               "sizes":{
+                  "small":{
+                     "w":507,
+                     "h":675,
+                     "resize":"fit"
+                  },
+                  "thumb":{
+                     "w":150,
+                     "h":150,
+                     "resize":"crop"
+                  },
+                  "medium":{
+                     "w":507,
+                     "h":675,
+                     "resize":"fit"
+                  },
+                  "large":{
+                     "w":507,
+                     "h":675,
+                     "resize":"fit"
+                  }
+               }
+            }
+         ]
+      },
+      "metadata":{
+         "iso_language_code":"en",
+         "result_type":"recent"
+      },
+      "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id":"None",
+      "in_reply_to_status_id_str":"None",
+      "in_reply_to_user_id":"None",
+      "in_reply_to_user_id_str":"None",
+      "in_reply_to_screen_name":"None",
+      "user":{
+         "id":780966765899583488,
+         "id_str":"780966765899583488",
+         "name":"krishnareddy",
+         "screen_name":"krishnathode",
+         "location":"CA",
+         "description":"",
+         "url":"None",
+         "entities":{
+            "description":{
+               "urls":[
+
+               ]
+            }
+         },
+         "protected":false,
+         "followers_count":105,
+         "friends_count":181,
+         "listed_count":0,
+         "created_at":"Wed Sep 28 03:06:01 +0000 2016",
+         "favourites_count":1144,
+         "utc_offset":"None",
+         "time_zone":"None",
+         "geo_enabled":true,
+         "verified":false,
+         "statuses_count":603,
+         "lang":"None",
+         "contributors_enabled":false,
+         "is_translator":false,
+         "is_translation_enabled":false,
+         "profile_background_color":"F5F8FA",
+         "profile_background_image_url":"None",
+         "profile_background_image_url_https":"None",
+         "profile_background_tile":false,
+         "profile_image_url":"http://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+         "profile_image_url_https":"https://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+         "profile_link_color":"1DA1F2",
+         "profile_sidebar_border_color":"C0DEED",
+         "profile_sidebar_fill_color":"DDEEF6",
+         "profile_text_color":"333333",
+         "profile_use_background_image":true,
+         "has_extended_profile":false,
+         "default_profile":true,
+         "default_profile_image":false,
+         "following":false,
+         "follow_request_sent":false,
+         "notifications":false,
+         "translator_type":"none",
+         "withheld_in_countries":[
+
+         ]
+      },
+      "geo":"None",
+      "coordinates":"None",
+      "place":"None",
+      "contributors":"None",
+      "is_quote_status":false,
+      "retweet_count":17,
+      "favorite_count":25,
+      "favorited":false,
+      "retweeted":false,
+      "possibly_sensitive":false,
+      "lang":"te"
+   },
+   "retweet_count":83,
+   "favorite_count":846,
+   "favorited":false,
+   "retweeted":false,
+   "possibly_sensitive":false,
+   "lang":"en"
+},
+created_at=datetime.datetime(2021,
+9,
+13,
+3,
+47,
+6),
+id=1437261529129181188,
+"id_str=""1437261529129181188",
+"full_text=""We will take care brother\n\n @KTRoffice please reach out and work with @Collector_MNCL and @WCDTelangana https://t.co/7v2M2rzDaJ",
+"truncated=False",
+"display_text_range="[
+   0,
+   103
+],
+"entities="{
+   "hashtags":[
+
+   ],
+   "symbols":[
+
+   ],
+   "user_mentions":[
+      {
+         "screen_name":"KTRoffice",
+         "name":"Office of KTR",
+         "id":857093639624945672,
+         "id_str":"857093639624945672",
+         "indices":[
+            28,
+            38
+         ]
+      },
+      {
+         "screen_name":"Collector_MNCL",
+         "name":"Collector Mancherial",
+         "id":852420985265377280,
+         "id_str":"852420985265377280",
+         "indices":[
+            70,
+            85
+         ]
+      },
+      {
+         "screen_name":"WCDTelangana",
+         "name":"WCDTelangana",
+         "id":970956922072510464,
+         "id_str":"970956922072510464",
+         "indices":[
+            90,
+            103
+         ]
+      }
+   ],
+   "urls":[
+      {
+         "url":"https://t.co/7v2M2rzDaJ",
+         "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784",
+         "display_url":"twitter.com/krishnathode/s…",
+         "indices":[
+            104,
+            127
+         ]
+      }
+   ]
+},
+"metadata="{
+   "iso_language_code":"en",
+   "result_type":"recent"
+},
+"source=""Twitter for iPhone",
+"source_url=""http://twitter.com/download/iphone",
+"in_reply_to_status_id=None",
+"in_reply_to_status_id_str=None",
+"in_reply_to_user_id=None",
+"in_reply_to_user_id_str=None",
+"in_reply_to_screen_name=None",
+author=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":118787224,
+   "id_str":"118787224",
+   "name":"KTR",
+   "screen_name":"KTRTRS",
+   "location":"Hyderabad, Telangana",
+   "description":"Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":3019772,
+   "friends_count":127,
+   "listed_count":756,
+   "created_at":"Mon Mar 01 19:07:28 +0000 2010",
+   "favourites_count":11828,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":true,
+   "statuses_count":15121,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"C0DEED",
+   "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/118787224/1624581184",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":true,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=118787224,
+"id_str=""118787224",
+"name=""KTR",
+"screen_name=""KTRTRS",
+"location=""Hyderabad, Telangana",
+"description=""Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=3019772,
+friends_count=127,
+listed_count=756,
+created_at=datetime.datetime(2010,
+3,
+1,
+19,
+7,
+28),
+favourites_count=11828,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=True",
+statuses_count=15121,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""C0DEED",
+"profile_background_image_url=""http://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https=""https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/118787224/1624581184",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=True",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+user=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":118787224,
+   "id_str":"118787224",
+   "name":"KTR",
+   "screen_name":"KTRTRS",
+   "location":"Hyderabad, Telangana",
+   "description":"Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":3019772,
+   "friends_count":127,
+   "listed_count":756,
+   "created_at":"Mon Mar 01 19:07:28 +0000 2010",
+   "favourites_count":11828,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":false,
+   "verified":true,
+   "statuses_count":15121,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"C0DEED",
+   "profile_background_image_url":"http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+   "profile_banner_url":"https://pbs.twimg.com/profile_banners/118787224/1624581184",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":true,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=118787224,
+"id_str=""118787224",
+"name=""KTR",
+"screen_name=""KTRTRS",
+"location=""Hyderabad, Telangana",
+"description=""Personal account of Working President of TRS | Minister for Municipal Admin & Urban Dev, Industry & Commerce, ITE&C | MLA from Siricilla, Telangana",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=3019772,
+friends_count=127,
+listed_count=756,
+created_at=datetime.datetime(2010,
+3,
+1,
+19,
+7,
+28),
+favourites_count=11828,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=False",
+"verified=True",
+statuses_count=15121,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""C0DEED",
+"profile_background_image_url=""http://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https=""https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1422913020108308480/PlD4-ESy_normal.jpg",
+"profile_banner_url=""https://pbs.twimg.com/profile_banners/118787224/1624581184",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=True",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+"geo=None",
+"coordinates=None",
+"place=None",
+"contributors=None",
+"is_quote_status=True",
+quoted_status_id=1437250532968566784,
+"quoted_status_id_str=""1437250532968566784",
+quoted_status=Status(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "created_at":"Mon Sep 13 03:03:24 +0000 2021",
+   "id":1437250532968566784,
+   "id_str":"1437250532968566784",
+   "full_text":"సర్ @KTRTRS @BTR_KTR @kmr_ktr @KonathamDileep @KTR_News @KTRoffice @MinisterKTR  నెన్నెల కి చెందిన చిన్నయ్య ఇంటికి పెద్ద దిక్కు ప్రమాదం తో  కాళ్లు తీసేసారు ప్రభుత్వ సాయం మరియు వైద్య సాయం అందించి వారి పిల్లలకు విద్య కు సహాయం చేయగలరు సర్ @jagadishTRS @DTsnpdcl https://t.co/x2GeiwWw1f",
+   "truncated":false,
+   "display_text_range":[
+      0,
+      258
+   ],
+   "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+         {
+            "screen_name":"KTRTRS",
+            "name":"KTR",
+            "id":118787224,
+            "id_str":"118787224",
+            "indices":[
+               4,
+               11
+            ]
+         },
+         {
+            "screen_name":"BTR_KTR",
+            "name":"Thirupathi Bandari",
+            "id":541625472,
+            "id_str":"541625472",
+            "indices":[
+               12,
+               20
+            ]
+         },
+         {
+            "screen_name":"kmr_ktr",
+            "name":"KMR@KTR",
+            "id":2919875354,
+            "id_str":"2919875354",
+            "indices":[
+               21,
+               29
+            ]
+         },
+         {
+            "screen_name":"KonathamDileep",
+            "name":"Konatham Dileep",
+            "id":3294963926,
+            "id_str":"3294963926",
+            "indices":[
+               30,
+               45
+            ]
+         },
+         {
+            "screen_name":"KTR_News",
+            "name":"KTR News",
+            "id":870891662054088704,
+            "id_str":"870891662054088704",
+            "indices":[
+               46,
+               55
+            ]
+         },
+         {
+            "screen_name":"KTRoffice",
+            "name":"Office of KTR",
+            "id":857093639624945672,
+            "id_str":"857093639624945672",
+            "indices":[
+               56,
+               66
+            ]
+         },
+         {
+            "screen_name":"MinisterKTR",
+            "name":"Minister for IT, Industries, MA & UD, Telangana",
+            "id":2550018541,
+            "id_str":"2550018541",
+            "indices":[
+               67,
+               79
+            ]
+         },
+         {
+            "screen_name":"jagadishTRS",
+            "name":"Jagadish Reddy G",
+            "id":1163433644171509762,
+            "id_str":"1163433644171509762",
+            "indices":[
+               236,
+               248
+            ]
+         },
+         {
+            "screen_name":"DTsnpdcl",
+            "name":"Director_NPDCL",
+            "id":1119097910312849410,
+            "id_str":"1119097910312849410",
+            "indices":[
+               249,
+               258
+            ]
+         }
+      ],
+      "urls":[
+
+      ],
+      "media":[
+         {
+            "id":1437250529109811202,
+            "id_str":"1437250529109811202",
+            "indices":[
+               259,
+               282
+            ],
+            "media_url":"http://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+            "media_url_https":"https://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+            "url":"https://t.co/x2GeiwWw1f",
+            "display_url":"pic.twitter.com/x2GeiwWw1f",
+            "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784/photo/1",
+            "type":"photo",
+            "sizes":{
+               "small":{
+                  "w":507,
+                  "h":675,
+                  "resize":"fit"
+               },
+               "thumb":{
+                  "w":150,
+                  "h":150,
+                  "resize":"crop"
+               },
+               "medium":{
+                  "w":507,
+                  "h":675,
+                  "resize":"fit"
+               },
+               "large":{
+                  "w":507,
+                  "h":675,
+                  "resize":"fit"
+               }
+            }
+         }
+      ]
+   },
+   "extended_entities":{
+      "media":[
+         {
+            "id":1437250529109811202,
+            "id_str":"1437250529109811202",
+            "indices":[
+               259,
+               282
+            ],
+            "media_url":"http://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+            "media_url_https":"https://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+            "url":"https://t.co/x2GeiwWw1f",
+            "display_url":"pic.twitter.com/x2GeiwWw1f",
+            "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784/photo/1",
+            "type":"photo",
+            "sizes":{
+               "small":{
+                  "w":507,
+                  "h":675,
+                  "resize":"fit"
+               },
+               "thumb":{
+                  "w":150,
+                  "h":150,
+                  "resize":"crop"
+               },
+               "medium":{
+                  "w":507,
+                  "h":675,
+                  "resize":"fit"
+               },
+               "large":{
+                  "w":507,
+                  "h":675,
+                  "resize":"fit"
+               }
+            }
+         }
+      ]
+   },
+   "metadata":{
+      "iso_language_code":"en",
+      "result_type":"recent"
+   },
+   "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "in_reply_to_status_id":"None",
+   "in_reply_to_status_id_str":"None",
+   "in_reply_to_user_id":"None",
+   "in_reply_to_user_id_str":"None",
+   "in_reply_to_screen_name":"None",
+   "user":{
+      "id":780966765899583488,
+      "id_str":"780966765899583488",
+      "name":"krishnareddy",
+      "screen_name":"krishnathode",
+      "location":"CA",
+      "description":"",
+      "url":"None",
+      "entities":{
+         "description":{
+            "urls":[
+
+            ]
+         }
+      },
+      "protected":false,
+      "followers_count":105,
+      "friends_count":181,
+      "listed_count":0,
+      "created_at":"Wed Sep 28 03:06:01 +0000 2016",
+      "favourites_count":1144,
+      "utc_offset":"None",
+      "time_zone":"None",
+      "geo_enabled":true,
+      "verified":false,
+      "statuses_count":603,
+      "lang":"None",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"F5F8FA",
+      "profile_background_image_url":"None",
+      "profile_background_image_url_https":"None",
+      "profile_background_tile":false,
+      "profile_image_url":"http://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+      "profile_image_url_https":"https://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+      "profile_link_color":"1DA1F2",
+      "profile_sidebar_border_color":"C0DEED",
+      "profile_sidebar_fill_color":"DDEEF6",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":true,
+      "default_profile_image":false,
+      "following":false,
+      "follow_request_sent":false,
+      "notifications":false,
+      "translator_type":"none",
+      "withheld_in_countries":[
+
+      ]
+   },
+   "geo":"None",
+   "coordinates":"None",
+   "place":"None",
+   "contributors":"None",
+   "is_quote_status":false,
+   "retweet_count":17,
+   "favorite_count":25,
+   "favorited":false,
+   "retweeted":false,
+   "possibly_sensitive":false,
+   "lang":"te"
+},
+created_at=datetime.datetime(2021,
+9,
+13,
+3,
+3,
+24),
+id=1437250532968566784,
+"id_str=""1437250532968566784",
+"full_text=""సర్ @KTRTRS @BTR_KTR @kmr_ktr @KonathamDileep @KTR_News @KTRoffice @MinisterKTR  నెన్నెల కి చెందిన చిన్నయ్య ఇంటికి పెద్ద దిక్కు ప్రమాదం తో  కాళ్లు తీసేసారు ప్రభుత్వ సాయం మరియు వైద్య సాయం అందించి వారి పిల్లలకు విద్య కు సహాయం చేయగలరు సర్ @jagadishTRS @DTsnpdcl https://t.co/x2GeiwWw1f",
+"truncated=False",
+"display_text_range="[
+   0,
+   258
+],
+"entities="{
+   "hashtags":[
+
+   ],
+   "symbols":[
+
+   ],
+   "user_mentions":[
+      {
+         "screen_name":"KTRTRS",
+         "name":"KTR",
+         "id":118787224,
+         "id_str":"118787224",
+         "indices":[
+            4,
+            11
+         ]
+      },
+      {
+         "screen_name":"BTR_KTR",
+         "name":"Thirupathi Bandari",
+         "id":541625472,
+         "id_str":"541625472",
+         "indices":[
+            12,
+            20
+         ]
+      },
+      {
+         "screen_name":"kmr_ktr",
+         "name":"KMR@KTR",
+         "id":2919875354,
+         "id_str":"2919875354",
+         "indices":[
+            21,
+            29
+         ]
+      },
+      {
+         "screen_name":"KonathamDileep",
+         "name":"Konatham Dileep",
+         "id":3294963926,
+         "id_str":"3294963926",
+         "indices":[
+            30,
+            45
+         ]
+      },
+      {
+         "screen_name":"KTR_News",
+         "name":"KTR News",
+         "id":870891662054088704,
+         "id_str":"870891662054088704",
+         "indices":[
+            46,
+            55
+         ]
+      },
+      {
+         "screen_name":"KTRoffice",
+         "name":"Office of KTR",
+         "id":857093639624945672,
+         "id_str":"857093639624945672",
+         "indices":[
+            56,
+            66
+         ]
+      },
+      {
+         "screen_name":"MinisterKTR",
+         "name":"Minister for IT, Industries, MA & UD, Telangana",
+         "id":2550018541,
+         "id_str":"2550018541",
+         "indices":[
+            67,
+            79
+         ]
+      },
+      {
+         "screen_name":"jagadishTRS",
+         "name":"Jagadish Reddy G",
+         "id":1163433644171509762,
+         "id_str":"1163433644171509762",
+         "indices":[
+            236,
+            248
+         ]
+      },
+      {
+         "screen_name":"DTsnpdcl",
+         "name":"Director_NPDCL",
+         "id":1119097910312849410,
+         "id_str":"1119097910312849410",
+         "indices":[
+            249,
+            258
+         ]
+      }
+   ],
+   "urls":[
+
+   ],
+   "media":[
+      {
+         "id":1437250529109811202,
+         "id_str":"1437250529109811202",
+         "indices":[
+            259,
+            282
+         ],
+         "media_url":"http://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+         "media_url_https":"https://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+         "url":"https://t.co/x2GeiwWw1f",
+         "display_url":"pic.twitter.com/x2GeiwWw1f",
+         "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784/photo/1",
+         "type":"photo",
+         "sizes":{
+            "small":{
+               "w":507,
+               "h":675,
+               "resize":"fit"
+            },
+            "thumb":{
+               "w":150,
+               "h":150,
+               "resize":"crop"
+            },
+            "medium":{
+               "w":507,
+               "h":675,
+               "resize":"fit"
+            },
+            "large":{
+               "w":507,
+               "h":675,
+               "resize":"fit"
+            }
+         }
+      }
+   ]
+},
+"extended_entities="{
+   "media":[
+      {
+         "id":1437250529109811202,
+         "id_str":"1437250529109811202",
+         "indices":[
+            259,
+            282
+         ],
+         "media_url":"http://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+         "media_url_https":"https://pbs.twimg.com/media/E_IjvcjVIAIZzWi.jpg",
+         "url":"https://t.co/x2GeiwWw1f",
+         "display_url":"pic.twitter.com/x2GeiwWw1f",
+         "expanded_url":"https://twitter.com/krishnathode/status/1437250532968566784/photo/1",
+         "type":"photo",
+         "sizes":{
+            "small":{
+               "w":507,
+               "h":675,
+               "resize":"fit"
+            },
+            "thumb":{
+               "w":150,
+               "h":150,
+               "resize":"crop"
+            },
+            "medium":{
+               "w":507,
+               "h":675,
+               "resize":"fit"
+            },
+            "large":{
+               "w":507,
+               "h":675,
+               "resize":"fit"
+            }
+         }
+      }
+   ]
+},
+"metadata="{
+   "iso_language_code":"en",
+   "result_type":"recent"
+},
+"source=""Twitter for Android",
+"source_url=""http://twitter.com/download/android",
+"in_reply_to_status_id=None",
+"in_reply_to_status_id_str=None",
+"in_reply_to_user_id=None",
+"in_reply_to_user_id_str=None",
+"in_reply_to_screen_name=None",
+author=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":780966765899583488,
+   "id_str":"780966765899583488",
+   "name":"krishnareddy",
+   "screen_name":"krishnathode",
+   "location":"CA",
+   "description":"",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":105,
+   "friends_count":181,
+   "listed_count":0,
+   "created_at":"Wed Sep 28 03:06:01 +0000 2016",
+   "favourites_count":1144,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":true,
+   "verified":false,
+   "statuses_count":603,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"F5F8FA",
+   "profile_background_image_url":"None",
+   "profile_background_image_url_https":"None",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":false,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=780966765899583488,
+"id_str=""780966765899583488",
+"name=""krishnareddy",
+"screen_name=""krishnathode",
+"location=""CA",
+"description=""",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=105,
+friends_count=181,
+listed_count=0,
+created_at=datetime.datetime(2016,
+9,
+28,
+3,
+6,
+1),
+favourites_count=1144,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=True",
+"verified=False",
+statuses_count=603,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""F5F8FA",
+"profile_background_image_url=None",
+"profile_background_image_url_https=None",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=False",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+user=User(_api=<tweepy.api.API object at 0x7faa280eab50>,
+"_json="{
+   "id":780966765899583488,
+   "id_str":"780966765899583488",
+   "name":"krishnareddy",
+   "screen_name":"krishnathode",
+   "location":"CA",
+   "description":"",
+   "url":"None",
+   "entities":{
+      "description":{
+         "urls":[
+
+         ]
+      }
+   },
+   "protected":false,
+   "followers_count":105,
+   "friends_count":181,
+   "listed_count":0,
+   "created_at":"Wed Sep 28 03:06:01 +0000 2016",
+   "favourites_count":1144,
+   "utc_offset":"None",
+   "time_zone":"None",
+   "geo_enabled":true,
+   "verified":false,
+   "statuses_count":603,
+   "lang":"None",
+   "contributors_enabled":false,
+   "is_translator":false,
+   "is_translation_enabled":false,
+   "profile_background_color":"F5F8FA",
+   "profile_background_image_url":"None",
+   "profile_background_image_url_https":"None",
+   "profile_background_tile":false,
+   "profile_image_url":"http://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+   "profile_image_url_https":"https://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+   "profile_link_color":"1DA1F2",
+   "profile_sidebar_border_color":"C0DEED",
+   "profile_sidebar_fill_color":"DDEEF6",
+   "profile_text_color":"333333",
+   "profile_use_background_image":true,
+   "has_extended_profile":false,
+   "default_profile":true,
+   "default_profile_image":false,
+   "following":false,
+   "follow_request_sent":false,
+   "notifications":false,
+   "translator_type":"none",
+   "withheld_in_countries":[
+
+   ]
+},
+id=780966765899583488,
+"id_str=""780966765899583488",
+"name=""krishnareddy",
+"screen_name=""krishnathode",
+"location=""CA",
+"description=""",
+"url=None",
+"entities="{
+   "description":{
+      "urls":[
+
+      ]
+   }
+},
+"protected=False",
+followers_count=105,
+friends_count=181,
+listed_count=0,
+created_at=datetime.datetime(2016,
+9,
+28,
+3,
+6,
+1),
+favourites_count=1144,
+"utc_offset=None",
+"time_zone=None",
+"geo_enabled=True",
+"verified=False",
+statuses_count=603,
+"lang=None",
+"contributors_enabled=False",
+"is_translator=False",
+"is_translation_enabled=False",
+"profile_background_color=""F5F8FA",
+"profile_background_image_url=None",
+"profile_background_image_url_https=None",
+"profile_background_tile=False",
+"profile_image_url=""http://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+"profile_image_url_https=""https://pbs.twimg.com/profile_images/1396243075781971969/jY7LFYzU_normal.jpg",
+"profile_link_color=""1DA1F2",
+"profile_sidebar_border_color=""C0DEED",
+"profile_sidebar_fill_color=""DDEEF6",
+"profile_text_color=""333333",
+"profile_use_background_image=True",
+"has_extended_profile=False",
+"default_profile=True",
+"default_profile_image=False",
+"following=False",
+"follow_request_sent=False",
+"notifications=False",
+"translator_type=""none",
+"withheld_in_countries="[
+
+]")",
+"geo=None",
+"coordinates=None",
+"place=None",
+"contributors=None",
+"is_quote_status=False",
+retweet_count=17,
+favorite_count=25,
+"favorited=False",
+"retweeted=False",
+"possibly_sensitive=False",
+"lang=""te"")",
+retweet_count=83,
+favorite_count=846,
+"favorited=False",
+"retweeted=False",
+"possibly_sensitive=False",
+"lang=""en"")",
+"is_quote_status=True",
+quoted_status_id=1437250532968566784,
+"quoted_status_id_str=""1437250532968566784",
+retweet_count=83,
+favorite_count=0,
+"favorited=False",
+"retweeted=False",
+"lang=""en")
