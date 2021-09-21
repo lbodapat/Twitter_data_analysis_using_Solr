@@ -52,8 +52,6 @@ def main():
             for tw in raw_tweets[2]:
                 processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag))
             print("In scrapper, Processed tweets count: ",len(processed_tweets))
-            print(processed_tweets)
-
             indexer.create_documents(processed_tweets)
 
             pois[i]["finished"] = 1
