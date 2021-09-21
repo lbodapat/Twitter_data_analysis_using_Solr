@@ -42,7 +42,7 @@ def createDictionary(tweet,country,twitter_class_object,poi_name_flag):
     formatted_date=_get_tweet_date(tweet.created_at)
 
     #Fetching reply tweets
-    reply_tweet=fetch_reply_tweet(tweet,twitter_class_object)
+#     reply_tweet=fetch_reply_tweet(tweet,twitter_class_object)
 
     #Setting name and id - for POI and Non-POI
     poi_name=''
