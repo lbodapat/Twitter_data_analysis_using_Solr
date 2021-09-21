@@ -3,8 +3,6 @@ import preprocessor
 import pandas as pd
 import numpy as np
 import itertools as it
-import spacy
-from spacy.lang.hi import Hindi
 import regex as re
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import sent_tokenize
