@@ -1,8 +1,3 @@
-'''
-@author: Souvik Das
-Institute: University at Buffalo
-'''
-
 import json
 import datetime
 import pandas as pd

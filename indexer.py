@@ -1,8 +1,3 @@
-'''
-@author: Souvik Das
-Institute: University at Buffalo
-'''
-
 import os
 import pysolr
 import requests

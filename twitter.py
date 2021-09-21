@@ -1,8 +1,3 @@
-'''
-@author: Souvik Das
-Institute: University at Buffalo
-'''
-
 import tweepy
 import time
 
@@ -94,21 +89,19 @@ class Twitter:
         return reply_tweet_text
 
     def get_replies2(self,ip_tweet,tweet_id):
-        total_replies_count=0
-        required_replies_count=2
-        poi_list=self.get_poi_list()
-        name=ip_tweet.author.screen_name
-        print("POI NAME AND LIST LENGTH::: ",name," :: ",len(poi_list))
-
-        if any(srchstr in name for srchstr in poi_list):
-            required_replies_count=11
-# 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
-        replies=[]
-        for tweet in tweepy.Cursor(self.api.search,q='to:'+name, result_type='recent', timeout=999999,tweet_mode="extended").items(required_replies_count):
-            if hasattr(tweet, 'in_reply_to_status_id_str'):
-                if (tweet.in_reply_to_status_id_str==tweet_id):
-                    replies.append(tweet.text)
-        return replies
+            total_replies_count=0
+            required_replies_count=2
+            poi_list=self.get_poi_list()
+            name=ip_tweet.author.screen_name
+            if any(srchstr in name for srchstr in poi_list):
+                required_replies_count=11
+            replies=[]
+            for tweet in tweepy.Cursor(self.api.search,q='to:'+name, result_type='recent', timeout=999999,tweet_mode="extended").items(1000):
+                if hasattr(tweet, 'in_reply_to_status_id_str') and total_replies_count<required_replies_count:
+                    if (tweet.in_reply_to_status_id_str==tweet_id):
+                        replies.append(tweet.full_text)
+                        total_replies_count=total_replies_count+1
+            return replies
 
     def check_rate_limit_error(self,tweets):
         print("Checking Rate Limit Error: ",tweets)
@@ -116,15 +109,15 @@ class Twitter:
             while True:
                 yield tweets.next()
         except:
-            print("Rate limit reached, sleeping for 13*60 secs")
-            time.sleep(13*60)
+            print("Rate limit reached, sleeping for 15*60 secs")
+            time.sleep(15*60)
 
     def limit_handled(self,cursor):
         while True:
             try:
                 yield next(cursor)
             except tweepy.RateLimitError:
-                 time.sleep(13*60)
+                 time.sleep(15*60)
 
     def is_keywords_present_in_tweet_text(self,tweet_text):
         covid_keyword_list=self.get_covid_keyword_list()
