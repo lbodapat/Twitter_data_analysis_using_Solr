@@ -26,7 +26,7 @@ class Twitter:
             print("Getting POI Tweets")
             retweeted_count=0
             covid_related_tweets_count=0
-            for tweet in self.check_rate_limit_error(tweepy.Cursor(self.api.user_timeline,id=screen_name,tweet_mode="extended").items(input_count)):
+            for tweet in self.limit_handled(tweepy.Cursor(self.api.user_timeline,id=screen_name,tweet_mode="extended").items(input_count)):
                 try:
                     if(tweet.retweeted and retweeted_count< round(input_count*0.15)):
                         re_tweets_array.append(tweet)
@@ -56,7 +56,7 @@ class Twitter:
         re_tweets_array=[]
         try:
             retweeted_count=0
-            for tweet in self.check_rate_limit_error(tweepy.Cursor(self.api.search,q=keyword,count=input_count,lang=input_language,tweet_mode="extended")):
+            for tweet in self.limit_handled(tweepy.Cursor(self.api.search,q=keyword,count=input_count,lang=input_language,tweet_mode="extended")):
                 try:
                     if(tweet.retweeted and retweeted_count< round(input_count*0.15)):
                         re_tweets_array.append(tweet)
@@ -117,7 +117,8 @@ class Twitter:
             try:
                 yield next(cursor)
             except tweepy.RateLimitError:
-                 time.sleep(15*60)
+                print("RL reached, sleeping for 15*60 secs")
+                time.sleep(15*60)
 
     def is_keywords_present_in_tweet_text(self,tweet_text):
         covid_keyword_list=self.get_covid_keyword_list()
