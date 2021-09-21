@@ -39,7 +39,8 @@ def createDictionary(tweet,country,twitter_class_object,poi_name_flag):
     text_cleaned_data=_text_cleaner(tweet.full_text,tweet.lang,hashtags,mentions,tweet_urls)
 
     #Formatting the date
-    formatted_date=_get_tweet_date(tweet.created_at)
+    formatted_date=''
+#     formatted_date=_get_tweet_date(tweet.created_at)
 
     #Fetching reply tweets
     reply_tweet=''
