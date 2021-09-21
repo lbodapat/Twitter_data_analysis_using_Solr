@@ -4,7 +4,7 @@
       "id":1,
       "screen_name":"narendramodi",
       "country":"India",
-      "count":600,
+      "count":2,
       "finished":0,
       "reply_finished":0,
       "collected":0
@@ -120,8 +120,8 @@
       "screen_name":"CDCgov",
       "country":"USA",
       "count":600,
-      "finished":0,
-      "reply_finished":1,
+      "finished":1,
+      "reply_finished":0,
       "collected":0
     },
     {
@@ -129,8 +129,8 @@
       "screen_name":"BarackObama",
       "country":"USA",
       "count":600,
-      "finished":0,
-      "reply_finished":1,
+      "finished":1,
+      "reply_finished":0,
       "collected":0
     },
     {

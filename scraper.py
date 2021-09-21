@@ -39,66 +39,57 @@ def main():
     print(pois)
     for i in range(len(pois)):
         if pois[i]["finished"] == 0:
+            poi_name_flag=1
             print(f"---------- collecting tweets for poi: {pois[i]['screen_name']}")
-
             raw_tweets = twitter.get_tweets_by_poi_screen_name(pois[i]['screen_name'],pois[i]['count'])  # pass args as needed
             print("For the POI ",pois[i]['screen_name'],"the number of total tweets: ",len(raw_tweets[0])," covid related tweets: ",
                     len(raw_tweets[2])," and Retweets: ",len(raw_tweets[1]))
             processed_tweets = []
             for tw in raw_tweets[0]:
-                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter)) # TODO: should country be passed here ??
+                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag))
             for tw in raw_tweets[1]:
-                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter))
+                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag))
             for tw in raw_tweets[2]:
-                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter))
+                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag))
             print("In scrapper, Processed tweets count: ",len(processed_tweets))
             print(processed_tweets)
-# TODO: ILL COME TO THIS
-#             indexer.create_documents(processed_tweets)
+
+            indexer.create_documents(processed_tweets)
 
             pois[i]["finished"] = 1
             pois[i]["collected"] = len(processed_tweets)
-
             write_config({
                 "pois": pois, "keywords": keywords
             })
-
             save_file(processed_tweets, f"poi_{pois[i]['id']}.pkl")
             print("------------ process complete -----------------------------------")
 
     for i in range(len(keywords)):
         if keywords[i]["finished"] == 0:
+            poi_name_flag=0
             print(f"---------- collecting tweets for keyword: {keywords[i]['name']}")
-
             raw_tweets = twitter.get_tweets_by_lang_and_keyword(keywords[i]['name'],keywords[i]['count'],keywords[i]['lang'])  # pass args as needed
-
             print("For the Keyword ",keywords[i]['name'],"the number of total tweets: ",len(raw_tweets[0])," and Retweets: ",len(raw_tweets[1]))
-
             processed_tweets = []
             for tw in raw_tweets[0]:
-                processed_tweets.append(TWPreprocessor.preprocess(tw,keywords[i]['country'],twitter))
+                processed_tweets.append(TWPreprocessor.preprocess(tw,keywords[i]['country'],twitter,poi_name_flag))
             for tw in raw_tweets[1]:
-                processed_tweets.append(TWPreprocessor.preprocess(tw,keywords[i]['country'],twitter))
+                processed_tweets.append(TWPreprocessor.preprocess(tw,keywords[i]['country'],twitter,poi_name_flag))
             print("In scrapper, Processed tweets count: ",len(processed_tweets))
-# TODO:COMPLETE THIS
-#             indexer.create_documents(processed_tweets)
+
+            indexer.create_documents(processed_tweets)
 
             keywords[i]["finished"] = 1
             keywords[i]["collected"] = len(processed_tweets)
-
             write_config({
                 "pois": pois, "keywords": keywords
             })
-
             save_file(processed_tweets, f"keywords_{keywords[i]['id']}.pkl")
-
             print("------------ process complete -----------------------------------")
 
     if reply_collection_knob:
         # Write a driver logic for reply collection, use the tweets from the data files for which the replies are to collected.
-
         raise NotImplementedError
-
 
 if __name__ == "__main__":
     main()

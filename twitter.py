@@ -96,7 +96,7 @@ class Twitter:
             if any(srchstr in name for srchstr in poi_list):
                 required_replies_count=11
             replies=[]
-            for tweet in tweepy.Cursor(self.api.search,q='to:'+name, result_type='recent', timeout=999999,tweet_mode="extended").items(1000):
+            for tweet in tweepy.Cursor(self.api.search,q='to:'+name, result_type='recent',tweet_mode="extended").items(1000):
                 if hasattr(tweet, 'in_reply_to_status_id_str') and total_replies_count<required_replies_count:
                     if (tweet.in_reply_to_status_id_str==tweet_id):
                         replies.append(tweet.full_text)
@@ -104,7 +104,7 @@ class Twitter:
             return replies
 
     def check_rate_limit_error(self,tweets):
-        print("Checking Rate Limit Error: ",tweets)
+        print("Checking Rate Limit Error: ")
         try:
             while True:
                 yield tweets.next()

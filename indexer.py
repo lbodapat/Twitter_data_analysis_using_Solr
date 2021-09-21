@@ -5,7 +5,8 @@ import requests
 # https://tecadmin.net/install-apache-solr-on-ubuntu/
 
 
-CORE_NAME = "IRF21P1"
+# CORE_NAME = "IRF21P1"
+CORE_NAME = "Dummy123"
 AWS_IP = "localhost"
 
 
@@ -39,8 +40,88 @@ class Indexer:
         Define all the fields that are to be indexed in the core. Refer to the project doc for more details
         :return:
         '''
-        raise NotImplementedError
+        data = {
+                    "add-field": [
+                        {
+                            "name": "poi_name",
+                            "type": "string",
+                            "multiValued": False
+                        },
+                        {
+                            "name": "poi_id",
+                            "type": "plong",
+                            "multiValued": False
+                        }, {
+                            "name": "verified",
+                            "type": "boolean",
+                            "multiValued": False
+                        },
+                        {
+                            "name": "country",
+                            "type": "string",
+                            "multiValued": False
+                        },
+                        {
+                            "name": "id",
+                            "type": "string",
+                            "multiValued": False
+                        },{
+                            "name": "replied_to_tweet_id",
+                            "type": "plong",
+                            "multiValued": False
+                        },{
+                            "name": "replied_to_user_id",
+                            "type": "plong",
+                            "multiValued": False
+                        },{
+                            "name": "reply_text",
+                            "type": "text_general",
+                            "multiValued": True
+                        },{
+                            "name": "replied_to_tweet_id",
+                            "type": "text_general",
+                            "multiValued": False
+                        },{
+                            "name": "tweet_text",
+                            "type": "text_general",
+                            "multiValued": False
+                        },{
+                            "name": "tweet_lang",
+                            "type": "string",
+                            "multiValued": False
+                        },{
+                            "name": "text_xx",
+                            "type": "text_general",
+                            "multiValued": False
+                        },{
+                            "name": "hashtags",
+                            "type": "string",
+                            "multiValued": True
+                        },{
+                            "name": "mentions",
+                            "type": "string",
+                            "multiValued": True
+                        },{
+                            "name": "tweet_urls",
+                            "type": "string",
+                            "multiValued": True
+                        },{
+                            "name": "tweet_emoticons",
+                            "type": "string",
+                            "multiValued": True
+                        },{
+                            "name": "tweet_date",
+                            "type": "pdate",
+                            "multiValued": False
+                        },{
+                            "name": "geolocation",
+                            "type": "string",
+                            "multiValued": False
+                        }
+                    ]
+                }
 
+        print(requests.post(self.solr_url + CORE_NAME + "/schema", json=data).json())
 
 if __name__ == "__main__":
     i = Indexer()
