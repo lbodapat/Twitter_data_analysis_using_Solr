@@ -73,10 +73,6 @@ class Indexer:
                             "type": "text_general",
                             "multiValued": True
                         },{
-                            "name": "replied_to_tweet_id",
-                            "type": "text_general",
-                            "multiValued": False
-                        },{
                             "name": "tweet_text",
                             "type": "text_general",
                             "multiValued": False
