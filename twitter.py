@@ -28,7 +28,7 @@ class Twitter:
             covid_related_tweets_count=0
             for tweet in self.limit_handled(tweepy.Cursor(self.api.user_timeline,id=screen_name,tweet_mode="extended").items(input_count)):
                 try:
-                    if(tweet.retweeted and retweeted_count< round(input_count*0.15)):
+                    if('RT @' in tweet.full_text and retweeted_count< round(input_count*0.15)):
                         re_tweets_array.append(tweet)
                         retweeted_count=retweeted_count+1
                     elif(not tweet.retweeted and 'RT @' not in tweet.full_text):
@@ -56,9 +56,9 @@ class Twitter:
         re_tweets_array=[]
         try:
             retweeted_count=0
-            for tweet in self.limit_handled(tweepy.Cursor(self.api.search,q=keyword,count=input_count,lang=input_language,tweet_mode="extended")):
+            for tweet in self.limit_handled(tweepy.Cursor(self.api.search,q=keyword,lang=input_language,tweet_mode="extended").items(input_count)):
                 try:
-                    if(tweet.retweeted and retweeted_count< round(input_count*0.15)):
+                    if('RT @' in tweet.full_text and retweeted_count< round(input_count*0.15)):
                         re_tweets_array.append(tweet)
                         retweeted_count=retweeted_count+1
                     elif(not tweet.retweeted and 'RT @' not in tweet.full_text):
