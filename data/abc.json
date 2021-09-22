@@ -303,7 +303,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":20,
@@ -311,7 +311,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":21,
@@ -319,7 +319,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":22,
@@ -327,7 +327,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":23,
@@ -335,7 +335,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":24,
@@ -343,7 +343,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":25,
@@ -351,7 +351,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":26,
@@ -359,7 +359,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":27,
@@ -367,7 +367,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":28,
@@ -375,7 +375,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":29,
@@ -383,7 +383,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":30,
@@ -391,7 +391,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":31,
@@ -399,7 +399,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":32,
@@ -407,7 +407,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":33,
@@ -415,7 +415,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":34,
@@ -423,11 +423,11 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":35,
-      "name":"कोविड का टीका",
+      "name":"ऑक्सीजन",
       "count":700,
       "lang":"hi",
       "country":"India",
@@ -483,7 +483,7 @@
       "collected":0
     },{
       "id":42,
-      "name":"कोविड का टीका",
+      "name":"नियंत्रण क्षेत्र",
       "count":700,
       "lang":"hi",
       "country":"India",
