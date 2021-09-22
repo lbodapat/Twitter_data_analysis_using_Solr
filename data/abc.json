@@ -159,7 +159,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":2,
@@ -167,7 +167,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":3,
@@ -175,7 +175,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":4,
@@ -183,7 +183,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":5,
@@ -191,7 +191,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":6,
@@ -199,7 +199,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":7,
@@ -207,7 +207,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":8,
@@ -215,7 +215,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":9,
@@ -223,7 +223,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":10,
@@ -231,15 +231,15 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":11,
-      "name":"pfizer",
+      "name":"immunity",
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":12,
@@ -247,7 +247,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":13,
@@ -255,7 +255,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":14,
@@ -263,15 +263,15 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":15,
-      "name":"johnson and johnson",
+      "name":"shots",
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":16,
@@ -279,7 +279,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":17,
@@ -287,7 +287,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":18,
@@ -295,11 +295,11 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":19,
-      "name":"firstdose",
+      "name":"injection",
       "count":700,
       "lang":"en",
       "country":"USA",
