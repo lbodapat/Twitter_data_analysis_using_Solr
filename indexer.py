@@ -5,7 +5,7 @@ import requests
 # https://tecadmin.net/install-apache-solr-on-ubuntu/
 
 
-CORE_NAME = "IRF21P1"
+CORE_NAME = "IRF21P1_nr"
 # CORE_NAME = "Dummy123"
 AWS_IP = "localhost"
 
