@@ -102,6 +102,7 @@ class Twitter:
                     if (tweet.in_reply_to_status_id_str==tweet_id):
                         replies.append(tweet.full_text)
                         total_replies_count=total_replies_count+1
+            print("# Replies Collected for name: ",name," are: ",len(replies))
             return replies
 
     def check_rate_limit_error(self,tweets):
