@@ -100,7 +100,8 @@ def main():
             print("------------ process complete -----------------------------------")
             print("------------ Total tweets collected of POI -----------------------------------",total_tweets_poi)
             print("------------ Total tweets collected of NON POI Vaccine related -----------------------------------",total_tweets_non_poi_vac)
-            print("------------ Total @RT retweets collected -----------------------------------",total_rt)
+            print("------------ Total @RT retweets collected POI-----------------------------------",total_rt_poi)
+            print("------------ Total @RT retweets collected Non POI-----------------------------------",total_rt_non_poi)
             print("------------ Total Covid general POI tweets collected -----------------------------------",total_covid)
 
     if reply_collection_knob:
