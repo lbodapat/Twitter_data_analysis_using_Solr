@@ -94,19 +94,19 @@ class Indexer:
                             "multiValued": False
                         },{
                             "name": "hashtags",
-                            "type": "string",
+                            "type": "strings",
                             "multiValued": True
                         },{
                             "name": "mentions",
-                            "type": "string",
+                            "type": "strings",
                             "multiValued": True
                         },{
                             "name": "tweet_urls",
-                            "type": "string",
+                            "type": "strings",
                             "multiValued": True
                         },{
                             "name": "tweet_emoticons",
-                            "type": "string",
+                            "type": "strings",
                             "multiValued": True
                         },{
                             "name": "tweet_date",
