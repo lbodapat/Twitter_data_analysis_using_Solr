@@ -37,7 +37,8 @@ def main():
     keywords = config["keywords"]
 
     total_covid=0
-    total_rt=0
+    total_rt_poi=0
+    total_rt_non_poi=0
     total_tweets_poi=0
     total_tweets_non_poi_vac=0
 
@@ -51,11 +52,11 @@ def main():
                     len(raw_tweets[2])," and Retweets: ",len(raw_tweets[1]))
             processed_tweets = []
             for tw in raw_tweets[0]:
-                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag))
+                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag,0))
             for tw in raw_tweets[1]:
-                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag))
+                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag,0))
             for tw in raw_tweets[2]:
-                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag))
+                processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag,1))
 #             indexer.create_documents(processed_tweets)
 
             pois[i]["finished"] = 1
@@ -65,7 +66,7 @@ def main():
             })
 
             total_covid=total_covid+len(raw_tweets[2])
-            total_rt=total_rt+len(raw_tweets[1])
+            total_rt_poi=total_rt_poi+len(raw_tweets[1])
             total_tweets_poi=total_tweets_poi+len(raw_tweets[0])
 
             save_file(processed_tweets, f"poi_{pois[i]['id']}.pkl")
@@ -79,9 +80,9 @@ def main():
             print("For the Keyword ",keywords[i]['name'],"the number of total tweets: ",len(raw_tweets[0])," and Retweets: ",len(raw_tweets[1]))
             processed_tweets = []
             for tw in raw_tweets[0]:
-                processed_tweets.append(TWPreprocessor.preprocess(tw,keywords[i]['country'],twitter,poi_name_flag))
+                processed_tweets.append(TWPreprocessor.preprocess(tw,keywords[i]['country'],twitter,poi_name_flag,0))
             for tw in raw_tweets[1]:
-                processed_tweets.append(TWPreprocessor.preprocess(tw,keywords[i]['country'],twitter,poi_name_flag))
+                processed_tweets.append(TWPreprocessor.preprocess(tw,keywords[i]['country'],twitter,poi_name_flag,0))
             print("In scrapper, Processed tweets count: ",len(processed_tweets))
 
 #             indexer.create_documents(processed_tweets)
@@ -92,7 +93,7 @@ def main():
                 "pois": pois, "keywords": keywords
             })
 
-            total_rt=total_rt+len(raw_tweets[1])
+            total_rt_non_poi=total_rt_non_poi+len(raw_tweets[1])
             total_tweets_non_poi_vac=total_tweets_non_poi_vac+len(raw_tweets[0])
 
             save_file(processed_tweets, f"keywords_{keywords[i]['id']}.pkl")

@@ -11,16 +11,15 @@ import json
 
 class TWPreprocessor:
     @classmethod
-    def preprocess(cls, tweet,country,twitter_class_object,poi_name_flag):
+    def preprocess(cls, tweet,country,twitter_class_object,poi_name_flag,poi_reply_flag):
         '''
         Do tweet pre-processing before indexing, make sure all the field data types are in the format as asked in the project doc.
         :param tweet:
         :return: dict
         '''
-        print("Preprocessing: ",tweet.id_str)
-        return createDictionary(tweet,country,twitter_class_object,poi_name_flag)
+        return createDictionary(tweet,country,twitter_class_object,poi_name_flag,poi_reply_flag)
 
-def createDictionary(tweet,country,twitter_class_object,poi_name_flag):
+def createDictionary(tweet,country,twitter_class_object,poi_name_flag,poi_reply_flag):
    #Chaging text_ln key based on language
     lang_specific_text=''
     if(tweet.lang=='en'):
@@ -42,8 +41,8 @@ def createDictionary(tweet,country,twitter_class_object,poi_name_flag):
     formatted_date=_get_tweet_date(tweet.created_at)
 
     #Fetching reply tweets
-    reply_tweet=''
-#     reply_tweet=fetch_reply_tweet(tweet,twitter_class_object)
+#     reply_tweet=''
+    reply_tweet=fetch_reply_tweet(tweet,twitter_class_object,poi_reply_flag)
 
     #Setting name and id - for POI and Non-POI
     poi_name=''
@@ -58,9 +57,9 @@ def createDictionary(tweet,country,twitter_class_object,poi_name_flag):
     createDictionary=dict(zip(keys, values))
     return createDictionary
 
-def fetch_reply_tweet(tweet,twitter_class_object):
+def fetch_reply_tweet(tweet,twitter_class_object,poi_reply_flag):
     print("Fetching replies.....")
-    fetched_replies=twitter_class_object.get_replies2(tweet,tweet.id_str)
+    fetched_replies=twitter_class_object.get_replies2(tweet,tweet.id_str,poi_reply_flag)
     return fetched_replies
 
 def _get_entities(tweet, type=None):

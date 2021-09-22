@@ -28,7 +28,7 @@ class Twitter:
             covid_related_tweets_count=0
             for tweet in self.limit_handled(tweepy.Cursor(self.api.user_timeline,id=screen_name,tweet_mode="extended").items(input_count)):
                 try:
-                    if('RT @' in tweet.full_text and retweeted_count< round(input_count*0.15)):
+                    if('RT @' in tweet.full_text and retweeted_count< round(input_count*0.1)):
                         re_tweets_array.append(tweet)
                         retweeted_count=retweeted_count+1
                     elif(not tweet.retweeted and 'RT @' not in tweet.full_text):
@@ -58,7 +58,7 @@ class Twitter:
             retweeted_count=0
             for tweet in self.limit_handled(tweepy.Cursor(self.api.search,q=keyword,lang=input_language,tweet_mode="extended").items(input_count)):
                 try:
-                    if('RT @' in tweet.full_text and retweeted_count< round(input_count*0.15)):
+                    if('RT @' in tweet.full_text and retweeted_count< round(input_count*0.1)):
                         re_tweets_array.append(tweet)
                         retweeted_count=retweeted_count+1
                     elif(not tweet.retweeted and 'RT @' not in tweet.full_text):
@@ -88,15 +88,16 @@ class Twitter:
         print(reply_tweet_text)
         return reply_tweet_text
 
-    def get_replies2(self,ip_tweet,tweet_id):
+    def get_replies2(self,ip_tweet,tweet_id,poi_reply_flag):
+            items_count=200
             total_replies_count=0
             required_replies_count=2
-            poi_list=self.get_poi_list()
+            if(poi_reply_flag==1):
+                items_count=1000
+                required_replies_count=12
             name=ip_tweet.author.screen_name
-            if any(srchstr in name for srchstr in poi_list):
-                required_replies_count=11
             replies=[]
-            for tweet in tweepy.Cursor(self.api.search,q='to:'+name, result_type='recent',tweet_mode="extended").items(1000):
+            for tweet in tweepy.Cursor(self.api.search,q='to:'+name, result_type='recent',tweet_mode="extended").items(items_count):
                 if hasattr(tweet, 'in_reply_to_status_id_str') and total_replies_count<required_replies_count:
                     if (tweet.in_reply_to_status_id_str==tweet_id):
                         replies.append(tweet.full_text)
