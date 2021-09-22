@@ -60,11 +60,6 @@ class Indexer:
                             "name": "country",
                             "type": "string",
                             "multiValued": False
-                        },
-                        {
-                            "name": "id",
-                            "type": "string",
-                            "multiValued": False
                         },{
                             "name": "replied_to_tweet_id",
                             "type": "plong",
