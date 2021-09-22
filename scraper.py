@@ -36,6 +36,11 @@ def main():
     pois = config["pois"]
     keywords = config["keywords"]
 
+    total_covid=0
+    total_rt=0
+    total_tweets_poi=0
+    total_tweets_non_poi_vac=0
+
     print(pois)
     for i in range(len(pois)):
         if pois[i]["finished"] == 0:
@@ -58,6 +63,11 @@ def main():
             write_config({
                 "pois": pois, "keywords": keywords
             })
+
+            total_covid=total_covid+raw_tweets[2]
+            total_rt=total_rt+raw_tweets[1]
+            total_tweets_poi=total_tweets_poi+raw_tweets[0]
+
             save_file(processed_tweets, f"poi_{pois[i]['id']}.pkl")
             print("------------ process complete -----------------------------------")
 
@@ -81,8 +91,16 @@ def main():
             write_config({
                 "pois": pois, "keywords": keywords
             })
+
+            total_rt=total_rt+raw_tweets[1]
+            total_tweets_non_poi_vac=total_tweets_non_poi_vac+raw_tweets[0]
+
             save_file(processed_tweets, f"keywords_{keywords[i]['id']}.pkl")
             print("------------ process complete -----------------------------------")
+            print("------------ Total tweets collected of POI -----------------------------------",total_tweets_poi)
+            print("------------ Total tweets collected of NON POI Vaccine related -----------------------------------",total_tweets_non_poi_vac)
+            print("------------ Total @RT retweets collected -----------------------------------",total_rt)
+            print("------------ Total Covid general POI tweets collected -----------------------------------",total_covid)
 
     if reply_collection_knob:
         # Write a driver logic for reply collection, use the tweets from the data files for which the replies are to collected.

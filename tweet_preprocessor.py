@@ -39,12 +39,11 @@ def createDictionary(tweet,country,twitter_class_object,poi_name_flag):
     text_cleaned_data=_text_cleaner(tweet.full_text,tweet.lang,hashtags,mentions,tweet_urls)
 
     #Formatting the date
-    formatted_date=''
-#     formatted_date=_get_tweet_date(tweet.created_at)
+    formatted_date=_get_tweet_date(tweet.created_at)
 
     #Fetching reply tweets
-    reply_tweet=''
-#     reply_tweet=fetch_reply_tweet(tweet,twitter_class_object)
+#     reply_tweet=''
+    reply_tweet=fetch_reply_tweet(tweet,twitter_class_object)
 
     #Setting name and id - for POI and Non-POI
     poi_name=''
@@ -57,10 +56,6 @@ def createDictionary(tweet,country,twitter_class_object,poi_name_flag):
     keys = ['poi_name', 'poi_id', 'verified','country','id','replied_to_tweet_id','replied_to_user_id','reply_text','tweet_text','tweet_lang',lang_specific_text,'hashtags','mentions','tweet_urls','tweet_emoticons','tweet_date','geolocation']
     values=[poi_name,poi_id,tweet.author.verified,country,tweet.id_str,tweet.in_reply_to_status_id,tweet.in_reply_to_user_id,reply_tweet,tweet.full_text,tweet.lang,text_cleaned_data[0],hashtags,mentions,tweet_urls,text_cleaned_data[1],formatted_date,tweet.geo]
     createDictionary=dict(zip(keys, values))
-    print(type(createDictionary.get("formatted_date")))
-    print("-------------------------------------------")
-    json.dumps(createDictionary, default=str)
-    print(type(createDictionary.get("formatted_date")))
     return createDictionary
 
 def fetch_reply_tweet(tweet,twitter_class_object):
@@ -131,7 +126,7 @@ def _text_cleaner(text,lang,hashtags,mentions,tweet_urls):
 
 def _get_tweet_date(tweet_date):
     final_val=_hour_rounder(convert((datetime.datetime.strftime(tweet_date, '%a %b %d %H:%M:%S +0000 %Y'))))
-    return final_val
+    return final_val.isoformat()
 
 def convert(date_str):
     val=(datetime.datetime.strptime(date_str,'%a %b %d %H:%M:%S +0000 %Y'))
