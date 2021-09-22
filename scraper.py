@@ -64,9 +64,9 @@ def main():
                 "pois": pois, "keywords": keywords
             })
 
-            total_covid=total_covid+raw_tweets[2]
-            total_rt=total_rt+raw_tweets[1]
-            total_tweets_poi=total_tweets_poi+raw_tweets[0]
+            total_covid=total_covid+len(raw_tweets[2])
+            total_rt=total_rt+len(raw_tweets[1])
+            total_tweets_poi=total_tweets_poi+len(raw_tweets[0])
 
             save_file(processed_tweets, f"poi_{pois[i]['id']}.pkl")
             print("------------ process complete -----------------------------------")
@@ -92,8 +92,8 @@ def main():
                 "pois": pois, "keywords": keywords
             })
 
-            total_rt=total_rt+raw_tweets[1]
-            total_tweets_non_poi_vac=total_tweets_non_poi_vac+raw_tweets[0]
+            total_rt=total_rt+len(raw_tweets[1])
+            total_tweets_non_poi_vac=total_tweets_non_poi_vac+len(raw_tweets[0])
 
             save_file(processed_tweets, f"keywords_{keywords[i]['id']}.pkl")
             print("------------ process complete -----------------------------------")
