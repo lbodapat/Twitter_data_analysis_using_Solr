@@ -46,7 +46,7 @@ def createDictionary(tweet,country,twitter_class_object,poi_name_flag,poi_reply_
 
     #Setting name and id - for POI and Non-POI
     poi_name=''
-    poi_id=''
+    poi_id=tweet.author.id
     if(poi_name_flag==1):
         poi_name=tweet.author.screen_name
         poi_id=tweet.author.id
