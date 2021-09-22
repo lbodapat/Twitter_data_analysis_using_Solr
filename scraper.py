@@ -57,7 +57,7 @@ def main():
                 processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag,0))
             for tw in raw_tweets[2]:
                 processed_tweets.append(TWPreprocessor.preprocess(tw,pois[i]['country'],twitter,poi_name_flag,1))
-#             indexer.create_documents(processed_tweets)
+            indexer.create_documents(processed_tweets)
 
             pois[i]["finished"] = 1
             pois[i]["collected"] = len(processed_tweets)
@@ -85,7 +85,7 @@ def main():
                 processed_tweets.append(TWPreprocessor.preprocess(tw,keywords[i]['country'],twitter,poi_name_flag,0))
             print("In scrapper, Processed tweets count: ",len(processed_tweets))
 
-#             indexer.create_documents(processed_tweets)
+            indexer.create_documents(processed_tweets)
 
             keywords[i]["finished"] = 1
             keywords[i]["collected"] = len(processed_tweets)
