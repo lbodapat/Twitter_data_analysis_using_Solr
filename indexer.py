@@ -5,7 +5,7 @@ import requests
 # https://tecadmin.net/install-apache-solr-on-ubuntu/
 
 
-CORE_NAME = "IRF21P1_nr"
+CORE_NAME = "IRF21P1_nr1"
 # CORE_NAME = "Dummy123"
 AWS_IP = "localhost"
 
@@ -71,7 +71,7 @@ class Indexer:
                         },{
                             "name": "reply_text",
                             "type": "text_general",
-                            "multiValued": True
+                            "multiValued": False
                         },{
                             "name": "tweet_text",
                             "type": "text_general",
@@ -81,7 +81,15 @@ class Indexer:
                             "type": "string",
                             "multiValued": False
                         },{
-                            "name": "text_xx",
+                            "name": "text_en",
+                            "type": "text_general",
+                            "multiValued": False
+                        },{
+                            "name": "text_hi",
+                            "type": "text_general",
+                            "multiValued": False
+                        },{
+                            "name": "text_es",
                             "type": "text_general",
                             "multiValued": False
                         },{
@@ -116,5 +124,5 @@ class Indexer:
 
 if __name__ == "__main__":
     i = Indexer()
-    #i.do_initial_setup()
+    i.do_initial_setup()
     i.add_fields()
