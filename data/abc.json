@@ -1103,11 +1103,11 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":101,
-      "name":"novaccinepassports",
+      "name":"cdc",
       "count":4000,
       "lang":"en",
       "country":"USA",
