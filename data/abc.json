@@ -84,7 +84,7 @@
       "screen_name":"ManceraMiguelMX",
       "country":"Mexico",
       "count":2000,
-      "finished":0,
+      "finished":1,
       "reply_finished":0,
       "collected":0
     },
@@ -93,7 +93,7 @@
       "screen_name":"Claudiashein",
       "country":"Mexico",
       "count":2000,
-      "finished":1,
+      "finished":0,
       "reply_finished":0,
       "collected":0
     },
