@@ -303,7 +303,7 @@
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":10,
@@ -511,7 +511,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":36,
@@ -567,7 +567,7 @@
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":43,
@@ -879,7 +879,7 @@
       "count":2000,
       "lang":"es",
       "country":"Mexico",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":82,
@@ -887,7 +887,7 @@
       "count":2000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":83,
@@ -895,7 +895,7 @@
       "count":2000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":84,
@@ -903,11 +903,11 @@
       "count":2000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":85,
-      "name":"vaccination",
+      "name":"sinopharm",
       "count":2000,
       "lang":"en",
       "country":"USA",
@@ -927,7 +927,7 @@
       "count":2000,
       "lang":"es",
       "country":"Mexico",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":88,
@@ -935,7 +935,7 @@
       "count":2000,
       "lang":"en",
       "country":"USA",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":89,
@@ -943,7 +943,7 @@
       "count":2000,
       "lang":"en",
       "country":"USA",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":90,
