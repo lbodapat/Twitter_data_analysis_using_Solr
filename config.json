@@ -1171,14 +1171,6 @@
       "collected":0
     },{
       "id":109,
-      "name":"covishield",
-      "count":4000,
-      "lang":"hi",
-      "country":"India",
-      "finished":0,
-      "collected":0
-    },{
-      "id":110,
       "name":"vacunacovid19",
       "count":4000,
       "lang":"es",
