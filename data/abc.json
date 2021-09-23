@@ -1143,7 +1143,7 @@
       "count":4000,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":106,
@@ -1151,7 +1151,7 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":107,
@@ -1159,7 +1159,7 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":108,
@@ -1167,7 +1167,7 @@
       "count":4000,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":109,
@@ -1175,7 +1175,7 @@
       "count":4000,
       "lang":"hi",
       "country":"India",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":110,
@@ -1183,7 +1183,7 @@
       "count":4000,
       "lang":"es",
       "country":"Mexico",
-      "finished":1,
+      "finished":0,
       "collected":0
     }
   ]
