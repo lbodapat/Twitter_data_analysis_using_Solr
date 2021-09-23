@@ -975,7 +975,7 @@
       "count":4000,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":94,
@@ -983,7 +983,7 @@
       "count":4000,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":95,
@@ -991,11 +991,11 @@
       "count":4000,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":96,
-      "name":"clinical trial",
+      "name":"novavax",
       "count":4000,
       "lang":"en",
       "country":"USA",
@@ -1007,7 +1007,7 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":98,
@@ -1015,7 +1015,7 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":99,
@@ -1023,7 +1023,7 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":100,
