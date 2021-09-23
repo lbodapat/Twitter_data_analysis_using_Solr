@@ -1135,14 +1135,14 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":105,
-      "name":"firstdose",
+      "name":"कोवेक्सिन",
       "count":4000,
-      "lang":"en",
-      "country":"USA",
+      "lang":"hi",
+      "country":"India",
       "finished":0,
       "collected":0
     },{
@@ -1167,7 +1167,7 @@
       "count":4000,
       "lang":"hi",
       "country":"India",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":109,
