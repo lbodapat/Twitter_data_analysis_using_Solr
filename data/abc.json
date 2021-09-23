@@ -23,7 +23,7 @@
       "screen_name":"ShashiTharoor",
       "country":"India",
       "count":2000,
-      "finished":0,
+      "finished":1,
       "reply_finished":0,
       "collected":0
     },
@@ -32,7 +32,7 @@
       "screen_name":"mansukhmandviya",
       "country":"India",
       "count":2000,
-      "finished":0,
+      "finished":1,
       "reply_finished":0,
       "collected":0
     },
@@ -41,7 +41,7 @@
       "screen_name":"AyushmanNHA",
       "country":"India",
       "count":2000,
-      "finished":1,
+      "finished":0,
       "reply_finished":0,
       "collected":0
     },{
