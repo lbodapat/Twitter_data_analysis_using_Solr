@@ -230,6 +230,78 @@
       "finished":1,
       "reply_finished":0,
       "collected":0
+    },{
+      "id":28,
+      "screen_name":"VP45",
+      "country":"USA",
+      "count":2000,
+      "finished":1,
+      "reply_finished":0,
+      "collected":0
+    },{
+      "id":29,
+      "screen_name":"Mike_Pence",
+      "country":"USA",
+      "count":2000,
+      "finished":1,
+      "reply_finished":0,
+      "collected":0
+    },{
+      "id":30,
+      "screen_name":"VP",
+      "country":"USA",
+      "count":2000,
+      "finished":1,
+      "reply_finished":0,
+      "collected":0
+    },{
+      "id":31,
+      "screen_name":"GavinNewsom",
+      "country":"USA",
+      "count":2000,
+      "finished":1,
+      "reply_finished":0,
+      "collected":0
+    },{
+      "id":32,
+      "screen_name":"HillaryClinton",
+      "country":"USA",
+      "count":2000,
+      "finished":1,
+      "reply_finished":0,
+      "collected":0
+    },{
+      "id":33,
+      "screen_name":"Schwarzenegger",
+      "country":"USA",
+      "count":2000,
+      "finished":1,
+      "reply_finished":0,
+      "collected":0
+    },{
+      "id":34,
+      "screen_name":"WhiteHouse",
+      "country":"USA",
+      "count":2000,
+      "finished":1,
+      "reply_finished":0,
+      "collected":0
+    },{
+      "id":35,
+      "screen_name":"AOC",
+      "country":"USA",
+      "count":2000,
+      "finished":1,
+      "reply_finished":0,
+      "collected":0
+    },{
+      "id":36,
+      "screen_name":"KamalaHarris",
+      "country":"USA",
+      "count":2000,
+      "finished":1,
+      "reply_finished":0,
+      "collected":0
     }
   ],
   "keywords":[
@@ -995,11 +1067,11 @@
       "collected":0
     },{
       "id":96,
-      "name":"novavax",
+      "name":"vaccinessavelives",
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":97,
@@ -1007,7 +1079,7 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":98,
@@ -1015,7 +1087,7 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":99,
@@ -1023,7 +1095,7 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":100,
@@ -1031,6 +1103,86 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
+      "finished":0,
+      "collected":0
+    },{
+      "id":101,
+      "name":"novaccinepassports",
+      "count":4000,
+      "lang":"en",
+      "country":"USA",
+      "finished":0,
+      "collected":0
+    },{
+      "id":102,
+      "name":"astrazenca",
+      "count":4000,
+      "lang":"en",
+      "country":"USA",
+      "finished":0,
+      "collected":0
+    },{
+      "id":103,
+      "name":"sabkovaccinemuftvaccine",
+      "count":4000,
+      "lang":"hi",
+      "country":"India",
+      "finished":0,
+      "collected":0
+    },{
+      "id":104,
+      "name":"vaccinemandate",
+      "count":4000,
+      "lang":"en",
+      "country":"USA",
+      "finished":1,
+      "collected":0
+    },{
+      "id":105,
+      "name":"firstdose",
+      "count":4000,
+      "lang":"en",
+      "country":"USA",
+      "finished":1,
+      "collected":0
+    },{
+      "id":106,
+      "name":"covid-19 vaccine",
+      "count":4000,
+      "lang":"en",
+      "country":"USA",
+      "finished":1,
+      "collected":0
+    },{
+      "id":107,
+      "name":"vaccinated",
+      "count":4000,
+      "lang":"en",
+      "country":"USA",
+      "finished":1,
+      "collected":0
+    },{
+      "id":108,
+      "name":"एंटीबॉडी",
+      "count":4000,
+      "lang":"hi",
+      "country":"India",
+      "finished":1,
+      "collected":0
+    },{
+      "id":109,
+      "name":"covishield",
+      "count":4000,
+      "lang":"hi",
+      "country":"India",
+      "finished":1,
+      "collected":0
+    },{
+      "id":110,
+      "name":"vacunacovid19",
+      "count":4000,
+      "lang":"es",
+      "country":"Mexico",
       "finished":1,
       "collected":0
     }
