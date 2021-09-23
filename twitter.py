@@ -58,7 +58,7 @@ class Twitter:
             retweeted_count=0
             for tweet in self.limit_handled(tweepy.Cursor(self.api.search,q=keyword,lang=input_language,tweet_mode="extended").items(input_count)):
                 try:
-                    if('RT @' in tweet.full_text and retweeted_count< round(input_count*0.1)):
+                    if('RT @' in tweet.full_text and retweeted_count< round(input_count*0.07)):
                         re_tweets_array.append(tweet)
                         retweeted_count=retweeted_count+1
                     elif(not tweet.retweeted and 'RT @' not in tweet.full_text):
