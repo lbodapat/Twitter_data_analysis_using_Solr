@@ -299,11 +299,11 @@
       "collected":0
     },{
       "id":9,
-      "name":"covid test",
+      "name":"covidvaccine",
       "count":700,
       "lang":"en",
       "country":"USA",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":10,
@@ -507,11 +507,11 @@
       "collected":0
     },{
       "id":35,
-      "name":"ऑक्सीजन",
+      "name":"वैक्सीनेशन",
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":36,
@@ -563,11 +563,11 @@
       "collected":0
     },{
       "id":42,
-      "name":"नियंत्रण क्षेत्र",
+      "name":"टीकाकरण",
       "count":700,
       "lang":"hi",
       "country":"India",
-      "finished":1,
+      "finished":0,
       "collected":0
     },{
       "id":43,
@@ -871,6 +871,166 @@
       "count":700,
       "lang":"es",
       "country":"Mexico",
+      "finished":1,
+      "collected":0
+    },{
+      "id":81,
+      "name":"anticuerpos",
+      "count":2000,
+      "lang":"es",
+      "country":"Mexico",
+      "finished":0,
+      "collected":0
+    },{
+      "id":82,
+      "name":"zycov-d",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":0,
+      "collected":0
+    },{
+      "id":83,
+      "name":"#largestvaccinedrive",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":0,
+      "collected":0
+    },{
+      "id":84,
+      "name":"vaccines",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":0,
+      "collected":0
+    },{
+      "id":85,
+      "name":"vaccination",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":0,
+      "collected":0
+    },{
+      "id":86,
+      "name":"vaccineshortage",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":0,
+      "collected":0
+    },{
+      "id":87,
+      "name":"efectos secundarios de la vacuna",
+      "count":2000,
+      "lang":"es",
+      "country":"Mexico",
+      "finished":1,
+      "collected":0
+    },{
+      "id":88,
+      "name":"hydroxychloroquine",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":1,
+      "collected":0
+    },{
+      "id":89,
+      "name":"antibody",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":1,
+      "collected":0
+    },{
+      "id":90,
+      "name":"वैक्सीन पासपोर्ट",
+      "count":2000,
+      "lang":"hi",
+      "country":"India",
+      "finished":1,
+      "collected":0
+    },{
+      "id":91,
+      "name":"टीकाकरण अभियान",
+      "count":2000,
+      "lang":"hi",
+      "country":"India",
+      "finished":1,
+      "collected":0
+    },{
+      "id":92,
+      "name":"inyección de refuerzo",
+      "count":2000,
+      "lang":"es",
+      "country":"Mexico",
+      "finished":1,
+      "collected":0
+    },{
+      "id":93,
+      "name":"inmunización",
+      "count":2000,
+      "lang":"es",
+      "country":"Mexico",
+      "finished":1,
+      "collected":0
+    },{
+      "id":94,
+      "name":"रोग प्रतिरोधक शक्ति",
+      "count":2000,
+      "lang":"hi",
+      "country":"India",
+      "finished":1,
+      "collected":0
+    },{
+      "id":95,
+      "name":"खराब असर",
+      "count":2000,
+      "lang":"hi",
+      "country":"India",
+      "finished":1,
+      "collected":0
+    },{
+      "id":96,
+      "name":"clinical trial",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":1,
+      "collected":0
+    },{
+      "id":97,
+      "name":"ivermectin",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":1,
+      "collected":0
+    },{
+      "id":98,
+      "name":"unvaccinated",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":1,
+      "collected":0
+    },{
+      "id":99,
+      "name":"jab",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
+      "finished":1,
+      "collected":0
+    },{
+      "id":100,
+      "name":"vaccinequity",
+      "count":2000,
+      "lang":"en",
+      "country":"USA",
       "finished":1,
       "collected":0
     }
