@@ -907,10 +907,10 @@
       "collected":0
     },{
       "id":85,
-      "name":"getvaxxed",
+      "name":"inyección de refuerzo",
       "count":2000,
-      "lang":"en",
-      "country":"USA",
+      "lang":"es",
+      "country":"Mexico",
       "finished":0,
       "collected":0
     },{
@@ -963,10 +963,10 @@
       "collected":0
     },{
       "id":92,
-      "name":"inyección de refuerzo",
+      "name":"herd immunity",
       "count":2000,
-      "lang":"es",
-      "country":"Mexico",
+      "lang":"en",
+      "country":"USA",
       "finished":1,
       "collected":0
     },{
