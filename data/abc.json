@@ -248,7 +248,7 @@
       "collected":0
     },{
       "id":30,
-      "screen_name":"VP",
+      "screen_name":"WHO",
       "country":"USA",
       "count":2000,
       "finished":1,
@@ -259,7 +259,7 @@
       "screen_name":"GavinNewsom",
       "country":"USA",
       "count":2000,
-      "finished":1,
+      "finished":0,
       "reply_finished":0,
       "collected":0
     },{
@@ -267,7 +267,7 @@
       "screen_name":"HillaryClinton",
       "country":"USA",
       "count":2000,
-      "finished":1,
+      "finished":0,
       "reply_finished":0,
       "collected":0
     },{
@@ -275,7 +275,7 @@
       "screen_name":"Schwarzenegger",
       "country":"USA",
       "count":2000,
-      "finished":1,
+      "finished":0,
       "reply_finished":0,
       "collected":0
     },{
@@ -283,7 +283,7 @@
       "screen_name":"WhiteHouse",
       "country":"USA",
       "count":2000,
-      "finished":1,
+      "finished":0,
       "reply_finished":0,
       "collected":0
     },{
