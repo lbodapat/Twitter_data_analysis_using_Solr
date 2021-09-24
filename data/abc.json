@@ -291,7 +291,7 @@
       "screen_name":"CDCGlobal",
       "country":"USA",
       "count":2000,
-      "finished":0,
+      "finished":1,
       "reply_finished":0,
       "collected":0
     },{
@@ -299,12 +299,36 @@
       "screen_name":"PATHtweets",
       "country":"USA",
       "count":2000,
-      "finished":0,
+      "finished":1,
       "reply_finished":1,
       "collected":0
     },{
       "id":37,
       "screen_name":"Kate_L_OBrien",
+      "country":"USA",
+      "count":2000,
+      "finished":1,
+      "reply_finished":1,
+      "collected":0
+    },{
+      "id":38,
+      "screen_name":"WHO_Europe",
+      "country":"USA",
+      "count":2000,
+      "finished":0,
+      "reply_finished":1,
+      "collected":0
+    },{
+      "id":39,
+      "screen_name":"USAIDGH",
+      "country":"USA",
+      "count":2000,
+      "finished":0,
+      "reply_finished":1,
+      "collected":0
+    },{
+      "id":40,
+      "screen_name":"WHO",
       "country":"USA",
       "count":2000,
       "finished":0,
