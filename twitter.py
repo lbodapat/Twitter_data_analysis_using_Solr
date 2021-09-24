@@ -32,10 +32,10 @@ class Twitter:
                         re_tweets_array.append(tweet)
                         retweeted_count=retweeted_count+1
                     elif(not tweet.retweeted and 'RT @' not in tweet.full_text):
-#                         if(covid_related_tweets_count<51 and self.is_keywords_present_in_tweet_text(tweet.full_text)) :
-#                             poi_covid_tweets_array.append(tweet)
-#                             covid_related_tweets_count=covid_related_tweets_count+1
-                        if(tweet.in_reply_to_status_id !=None):
+                        if(covid_related_tweets_count<51 and self.is_keywords_present_in_tweet_text(tweet.full_text)) :
+                            poi_covid_tweets_array.append(tweet)
+                            covid_related_tweets_count=covid_related_tweets_count+1
+                        else:
                             tweets_array.append(tweet)
                 except tweepy.TweepError as exp:
                     print(exp.reason)
