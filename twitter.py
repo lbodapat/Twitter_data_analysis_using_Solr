@@ -35,7 +35,7 @@ class Twitter:
                         if(covid_related_tweets_count<51 and self.is_keywords_present_in_tweet_text(tweet.full_text)) :
                             poi_covid_tweets_array.append(tweet)
                             covid_related_tweets_count=covid_related_tweets_count+1
-                        else:
+                        elif(tweet.in_reply_to_status_id !=None):
                             tweets_array.append(tweet)
                 except tweepy.TweepError as exp:
                     print(exp.reason)

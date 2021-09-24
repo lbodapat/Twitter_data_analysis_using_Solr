@@ -44,18 +44,19 @@ def createDictionary(tweet,country,twitter_class_object,poi_name_flag,poi_reply_
     reply_tweet=''
     if(tweet.in_reply_to_user_id is not None and tweet.in_reply_to_status_id is not None):
         reply_tweet=tweet.full_text
+
 #     reply_tweet=fetch_reply_tweet(tweet,twitter_class_object,poi_reply_flag)
 
     #Setting name and id - for POI and Non-POI
     poi_name=''
     poi_id=''
-    if(poi_name_flag==1):
-        poi_name=tweet.author.screen_name
-        poi_id=tweet.author.id
+#     if(poi_name_flag==1):
+#         poi_name=tweet.author.screen_name
+#         poi_id=tweet.author.id
 
     #Creating Dictionary
     keys = ['poi_name', 'poi_id', 'verified','country','id','replied_to_tweet_id','replied_to_user_id','reply_text','tweet_text','tweet_lang',lang_specific_text,'hashtags','mentions','tweet_urls','tweet_emoticons','tweet_date','geolocation']
-    values=[poi_name,poi_id,tweet.author.verified,country,tweet.id_str,tweet.in_reply_to_status_id,tweet.in_reply_to_user_id,reply_tweet,tweet.full_text,tweet.lang,text_cleaned_data[0],hashtags,mentions,tweet_urls,text_cleaned_data[1],formatted_date,tweet.geo]
+    values=[poi_name,poi_id,False,country,tweet.id_str,tweet.in_reply_to_status_id,tweet.in_reply_to_user_id,reply_tweet,tweet.full_text,tweet.lang,text_cleaned_data[0],hashtags,mentions,tweet_urls,text_cleaned_data[1],formatted_date,tweet.geo]
     createDictionary=dict(zip(keys, values))
     return createDictionary
 
