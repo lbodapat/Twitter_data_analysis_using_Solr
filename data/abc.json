@@ -235,7 +235,7 @@
       "screen_name":"VP45",
       "country":"USA",
       "count":2000,
-      "finished":1,
+      "finished":0,
       "reply_finished":0,
       "collected":0
     },{
@@ -1175,10 +1175,26 @@
       "count":4000,
       "lang":"hi",
       "country":"India",
-      "finished":0,
+      "finished":1,
       "collected":0
     },{
       "id":110,
+      "name":"sputnikv",
+      "count":4000,
+      "lang":"en",
+      "country":"USA",
+      "finished":0,
+      "collected":0
+    },{
+      "id":111,
+      "name":"astrazeneca",
+      "count":4000,
+      "lang":"en",
+      "country":"USA",
+      "finished":0,
+      "collected":0
+    },{
+      "id":112,
       "name":"vacunacovid19",
       "count":4000,
       "lang":"es",

@@ -42,6 +42,8 @@ def createDictionary(tweet,country,twitter_class_object,poi_name_flag,poi_reply_
 
     #Fetching reply tweets
     reply_tweet=''
+    if(tweet.in_reply_to_user_id is not None and tweet.in_reply_to_status_id is not None):
+        reply_tweet=tweet.text
 #     reply_tweet=fetch_reply_tweet(tweet,twitter_class_object,poi_reply_flag)
 
     #Setting name and id - for POI and Non-POI
