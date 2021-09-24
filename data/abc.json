@@ -235,7 +235,7 @@
       "screen_name":"VP45",
       "country":"USA",
       "count":2000,
-      "finished":0,
+      "finished":1,
       "reply_finished":0,
       "collected":0
     },{
@@ -259,7 +259,7 @@
       "screen_name":"GavinNewsom",
       "country":"USA",
       "count":2000,
-      "finished":0,
+      "finished":1,
       "reply_finished":0,
       "collected":0
     },{
@@ -267,7 +267,7 @@
       "screen_name":"HillaryClinton",
       "country":"USA",
       "count":2000,
-      "finished":0,
+      "finished":1,
       "reply_finished":0,
       "collected":0
     },{
@@ -275,7 +275,7 @@
       "screen_name":"Schwarzenegger",
       "country":"USA",
       "count":2000,
-      "finished":0,
+      "finished":1,
       "reply_finished":0,
       "collected":0
     },{
@@ -283,24 +283,32 @@
       "screen_name":"WhiteHouse",
       "country":"USA",
       "count":2000,
-      "finished":0,
+      "finished":1,
       "reply_finished":0,
       "collected":0
     },{
       "id":35,
-      "screen_name":"AOC",
+      "screen_name":"CDCGlobal",
       "country":"USA",
       "count":2000,
-      "finished":1,
+      "finished":0,
       "reply_finished":0,
       "collected":0
     },{
       "id":36,
-      "screen_name":"KamalaHarris",
+      "screen_name":"PATHtweets",
       "country":"USA",
       "count":2000,
-      "finished":1,
-      "reply_finished":0,
+      "finished":0,
+      "reply_finished":1,
+      "collected":0
+    },{
+      "id":37,
+      "screen_name":"Kate_L_OBrien",
+      "country":"USA",
+      "count":2000,
+      "finished":0,
+      "reply_finished":1,
       "collected":0
     }
   ],
@@ -1183,23 +1191,7 @@
       "count":4000,
       "lang":"en",
       "country":"USA",
-      "finished":0,
-      "collected":0
-    },{
-      "id":111,
-      "name":"astrazeneca",
-      "count":4000,
-      "lang":"en",
-      "country":"USA",
-      "finished":0,
-      "collected":0
-    },{
-      "id":112,
-      "name":"vacunacovid19",
-      "count":4000,
-      "lang":"es",
-      "country":"Mexico",
-      "finished":0,
+      "finished":1,
       "collected":0
     }
   ]
