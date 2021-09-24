@@ -236,7 +236,7 @@
       "country":"USA",
       "count":2000,
       "finished":0,
-      "reply_finished":0,
+      "reply_finished":1,
       "collected":0
     },{
       "id":29,
