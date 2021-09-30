@@ -3,8 +3,9 @@ import time
 
 class Twitter:
     def __init__(self):
-        self.auth = tweepy.OAuthHandler("UFKPrZYXM1K4d7ePghFdSRS45", "9bQKv3CrRehpY0hUTM3eZ9DnbaRr8xEjBPqQdXQWVSmp6rD6Y3")
-        self.auth.set_access_token("1432544818358538241-fLcn8NmPWrtjUNTRZlHPA4bN4rAJ4f", "hRlaOyH3Mw1AY10luh2zlM74X0l6uH2ihGq85o0z4uC2Z")
+#     Add them....
+        self.auth = tweepy.OAuthHandler("", "")
+        self.auth.set_access_token("", "")
         self.api = tweepy.API(self.auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
     def _meet_basic_tweet_requirements(self):

@@ -1,6 +1,5 @@
-# CSE 4/535 Project 1: Starter Kit
+# Twitter Data Scraper Project
 
-This codebase is a starter kit for Project 1. Usage of this toolkit is completely **OPTIONAL**.
 
 
 ## Requirements
@@ -13,12 +12,12 @@ pip3 install pandas numpy tweepy pysolr tweet-preprocessor demoji -q
 
 ## Files and Tasks
 
-**Files** | **Description** | **Tasks** |
+**Files** | **Description** | 
 --- | --- | --- |
-`twitter.py` | Interacts with Twitter API | Implement `get_tweets_by_poi_screen_name`, `get_tweets_by_lang_and_keyword`, and  `get_replies`. |
-`indexer.py` | Interacts with Solr | Implement `add_fields` |
-`tweet_preprocesssor.py` | For processing Tweets | Implement `preprocess` |
-`scraper.py` | Main orchestration code | Implement logic for reply collection |
+`twitter.py` | Interacts with Twitter API 
+`indexer.py` | Interacts with Solr 
+`tweet_preprocesssor.py` | For processing Tweets 
+`scraper.py` | Main orchestration code 
 
 ## Authentication
 
@@ -87,17 +86,3 @@ Under `project1/data/` all the POIs, Keywords tweets will be stored in pickle fo
 ## Running the Scraper
 
 `python3 scraper.py`
-
-## Strategies for Efficient Data Collection/ Indexing
-
-- Extensively use EC2 instances for data collection.
-- Run `scraper.py` using nohup in the server. Command is `sudo nohup python3 scraper.py > log.txt 2>&1 &`
-- The nohup command will create a log file `log.txt` check the log file for exceution status.
-- Use the `count` field judiciously.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
