@@ -10,7 +10,7 @@ import requests
 # https://tecadmin.net/install-apache-solr-on-ubuntu/
 
 
-CORE_NAME = "IRF21P1"
+CORE_NAME = "IRF21P4"
 AWS_IP = "localhost"
 
 
@@ -137,6 +137,36 @@ class Indexer:
                     "name": "geolocation",
                     "type": "string",
                     "multiValued": False
+                },
+                {
+                    "name": "followers_count",
+                    "type": "plong",
+                    "multiValued": False
+                },
+                {
+                    "name": "retweet_count",
+                    "type": "plong",
+                    "multiValued": False
+                },
+                {
+                    "name": "profile_image_url_https",
+                    "type": "string",
+                    "multiValued": False
+                },
+                {
+                    "name": "favorite_count",
+                    "type": "plong",
+                    "multiValued": False
+                },
+                {
+                    "name": "media_url",
+                    "type": "string",
+                    "multiValued": False
+                },
+                {
+                    "name": "screen_name",
+                    "type": "string",
+                    "multiValued": False
                 }
             ]
         }
@@ -169,6 +199,6 @@ class Indexer:
 
 if __name__ == "__main__":
     i = Indexer()
-    #i.do_initial_setup()
-    #i.add_fields()
+    i.do_initial_setup()
+    i.add_fields()
     #i.replace_fields()
